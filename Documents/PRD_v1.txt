@@ -1,0 +1,320 @@
+Product Requirements Document (PRD)
+Project Title
+
+Similarity-Based Pre-Post Instagram Analytics for New Creators
+
+1. Product Overview
+1.1 Product Name (Working)
+
+Content Similarity–Based Performance Guidance Tool
+(Final branding to be decided later)
+
+1.2 Problem Statement
+
+Most Instagram analytics tools require historical data from the user in order to generate insights.
+
+This creates a major gap:
+
+New creators have little or no posting history
+
+Existing tools cannot answer:
+
+“How might this post perform?”
+
+“What should I improve before posting?”
+
+“What does similar content usually get?”
+
+As a result, newcomers:
+
+Post blindly
+
+Copy viral creators without context
+
+Receive analytics only after failure
+
+1.3 Product Vision
+
+To help new and early-stage creators make evidence-based posting decisions before publishing, by showing how similar content has performed historically across comparable creators.
+
+This product does not predict virality.
+It provides context, ranges, and improvement guidance grounded in real data.
+
+2. Goals & Non-Goals
+2.1 Goals
+
+Provide pre-post analytics for creators with little or no history
+
+Use content similarity, not follower count alone
+
+Show ranges and patterns, not exact predictions
+
+Help users understand:
+
+What similar posts achieved
+
+What top posts did differently
+
+How to improve their draft content
+
+2.2 Non-Goals
+
+This product will not:
+
+Predict exact views or engagement
+
+Claim to understand Instagram’s ranking algorithm
+
+Guarantee growth or virality
+
+Replace full analytics tools for established creators
+
+3. Target Users
+3.1 Primary Users
+
+New Instagram creators
+
+Creators restarting in a new niche
+
+Small creators (<10k followers)
+
+Content marketers validating ideas before posting
+
+3.2 Secondary Users (Later)
+
+Agencies testing content ideas
+
+Brand teams evaluating creative concepts
+
+Educators teaching social media strategy
+
+4. Core Concept
+4.1 Key Insight
+
+If we cannot analyze your history, we can analyze history of similar content.
+
+The system uses:
+
+A curated dataset of posts from multiple creators
+
+Content similarity matching (topic, intent, structure)
+
+Performance distributions instead of point predictions
+
+5. Data Foundation
+5.1 Dataset Characteristics (Initial)
+
+Content type: Instagram Reels
+
+Creators: 5 creators
+
+Posts per creator: Few hundred
+
+Same content category / niche
+
+Data includes:
+
+Views, likes, comments, shares
+
+Caption & hashtags
+
+Content topic & intent
+
+Comment sentiment (sampled)
+
+Posting time & date
+
+5.2 Why This Dataset Is Sufficient for V1
+
+Focused niche reduces noise
+
+Includes successful and unsuccessful posts
+
+Includes qualitative (content) + quantitative (metrics) signals
+
+Enables similarity analysis without user history
+
+6. User Input (What the User Provides)
+6.1 Required Inputs
+
+Draft caption text
+
+Hashtags (optional but recommended)
+
+Content category (selected or inferred)
+
+Content format (Reel)
+
+6.2 Optional Inputs (Later)
+
+Target audience
+
+Posting time (if user has one in mind)
+
+Account size bucket (optional)
+
+7. System Logic (High Level)
+7.1 Feature Extraction (Internal)
+
+From user input:
+
+Topic embedding (what the post is about)
+
+Intent classification (educate, entertain, promote, etc.)
+
+Hashtag theme clustering
+
+Caption structure analysis (length, hook, CTA)
+
+7.2 Similarity Search
+
+Compare user post against entire historical dataset
+
+Match based on:
+
+Topic similarity
+
+Intent similarity
+
+Hashtag theme overlap
+
+Caption structure patterns
+
+⚠️ Importantly:
+
+Similarity search includes:
+
+High-performing posts
+
+Average posts
+
+Poor-performing posts
+
+This avoids survivorship bias.
+
+8. Analytics & Insights Provided
+8.1 Performance Ranges (Not Predictions)
+
+The system computes:
+
+View range (25th–75th percentile)
+
+Engagement range
+
+Comment sentiment distribution
+
+Example:
+
+“Posts most similar to yours typically received 3k–12k views.”
+
+8.2 Comparative Analysis
+
+From similar posts:
+
+What top-quartile posts had
+
+What bottom-quartile posts lacked
+
+Examples:
+
+Posting time patterns
+
+Hashtag count differences
+
+Caption hooks / CTAs presence
+
+8.3 Improvement Guidance
+
+Actionable suggestions:
+
+Optimal posting time window
+
+Hashtag themes to include or avoid
+
+Caption structure suggestions
+
+CTA recommendations
+
+These suggestions are explicitly tied to observed data, not heuristics.
+
+9. Output Philosophy (Critical)
+9.1 Language Rules
+
+The product must:
+
+Use “tends to”, “typically”, “in similar cases”
+
+Avoid “will”, “guaranteed”, “predicts”
+
+9.2 Transparency
+
+Each insight must answer:
+
+Compared to what?
+
+Based on how many posts?
+
+Over what time range?
+
+Trust is a feature.
+
+10. UX Principles
+
+Evidence-first, not hype-first
+
+Clear separation between:
+
+Observed data
+
+Interpretation
+
+Suggestions
+
+Ranges and distributions over single numbers
+
+Tooltips explaining limitations
+
+11. Risks & Mitigations
+Risk	Mitigation
+User misinterprets range as guarantee	Clear copy + disclaimers
+Dataset too small	Tight niche scoping
+Bias toward large creators	Normalize metrics
+Stale trends	Time-decay weighting
+Overfitting similarity	Broad matching thresholds
+12. Success Criteria (V1)
+
+The product is successful if:
+
+Users understand why insights are shown
+
+Users can identify at least 2 concrete improvements
+
+No user assumes guaranteed outcomes
+
+Feedback indicates increased confidence before posting
+
+13. Future Extensions (Explicitly Out of V1)
+
+Multi-niche datasets
+
+User-specific history blending
+
+Visual content analysis (frames, audio)
+
+Automated early-hour performance tracking
+
+Advanced forecasting models
+
+14. Summary
+
+This product:
+
+Solves a real gap for new creators
+
+Avoids fake AI promises
+
+Uses similarity + evidence instead of prediction
+
+Trades certainty for clarity
+
+It is a decision-support tool, not a fortune teller.

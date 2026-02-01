@@ -1,0 +1,331 @@
+Product Requirements Document (PRD)
+Project Title
+
+Manual UI-Assisted Instagram Analytics Collection (MUI-IAC)
+
+1. Overview
+1.1 Process Name
+
+Manual UI-Assisted Instagram Analytics Collection (MUI-IAC)
+
+1.2 Purpose
+
+The purpose of this process is to collect a one-time snapshot of Instagram Reel-level engagement, comment sentiment, and content context data for a small number of content creators using manual UI navigation combined with AI-assisted text extraction, without relying on:
+
+Paid scraping tools
+
+Automated data pipelines
+
+Official Instagram / Meta APIs
+
+This process is explicitly designed for:
+
+Exploratory research
+
+Feature analysis
+
+Competitive or comparative studies
+
+Early-stage product ideation
+
+It is not intended for:
+
+Production analytics
+
+Recurring data pipelines
+
+Compliance-critical reporting
+
+Large-scale or automated scraping
+
+2. Scope and Constraints
+2.1 Scope
+Dimension	Scope
+Number of creators	4–5
+Content type	Instagram Reels only
+Data frequency	One-time snapshot
+Access method	Logged-in Instagram Web UI
+Data source	Explicitly visible UI elements only
+2.2 Explicit Constraints
+Constraint	Description
+Budget	Zero (no paid tools or services)
+Automation	No continuous automation or background jobs
+API usage	No official Instagram / Meta APIs
+Data freshness	Snapshot only (no historical backfill)
+Accuracy	UI-level accuracy, manually validated
+3. Data Sources
+3.1 Primary Source
+
+Instagram Web Interface
+
+Creator profile → Reels tab
+
+Individual reel modal pages
+
+Reel comments view
+
+3.2 Extraction Method
+
+Manual navigation by human user
+
+Screenshots for reference and validation
+
+Comet Agent used strictly to extract explicitly visible text
+
+⚠️ Agent constraints
+
+No inference
+
+No estimation
+
+No aggregation
+
+No fabrication of missing values
+
+4. Data Collected
+4.1 Creator-Level Metadata
+Field	Description
+creator_username	Instagram username
+profile_url	Creator profile URL
+content_type	Reels
+data_collection_date	Snapshot date
+4.2 Reel-Level Metrics (Per Post)
+Field	Description
+reel_url	Direct URL of the reel
+posted_at	Timestamp shown in UI
+views	Reel views
+likes	Total likes
+comments_count	Total comments
+shares	Total shares
+caption	Full reel caption
+hashtags	Extracted hashtags
+hashtag_count	Derived field
+4.3 Comment-Level Data (Per Reel)
+
+For each reel, extract approximately 50–100 visible comments.
+
+Field	Description
+reel_url	Associated reel
+comment_text	Exact visible comment text
+comment_order	Order as loaded in UI
+extracted_at	Timestamp of extraction
+
+Note: Only top / visible comments are collected. Chronological completeness is not guaranteed.
+
+4.4 Content Understanding & Context (Derived)
+
+These fields are derived after extraction, not during scraping.
+
+Field	Description
+post_topic	Main topic (e.g., education, entertainment, marketing, personal, meme)
+post_intent	Inform, promote, entertain, react, educate, etc.
+cta_present	Yes / No
+visual_description	1–2 sentence factual description of what is visibly happening in the reel
+
+⚠️ Visual descriptions must be descriptive, not interpretive.
+
+5. Out-of-Scope Data
+
+The following data is explicitly excluded:
+
+Audience demographics (age, gender, location)
+
+Historical or daily time-series metrics
+
+Reach vs impressions breakdown
+
+Saves (if not visible in UI)
+
+Non-Reel content (posts, stories)
+
+Private, hidden, or inferred metrics
+
+6. Step-by-Step Collection Workflow
+6.1 Preparation
+
+Identify target creators (4–5 usernames)
+
+Define structured data schema (CSV / JSON)
+
+Prepare validation and consistency checklist
+
+6.2 Per-Creator Collection Process
+Step 1 — Profile Access
+
+Log into Instagram manually via browser
+
+Navigate to creator profile
+
+Open Reels tab
+
+Scroll until all reels are fully loaded
+
+Step 2 — Reel Enumeration & Metrics
+
+For each reel:
+
+Open reel modal
+
+Capture:
+
+Views
+
+Likes
+
+Comments count
+
+Shares
+
+Caption
+
+Hashtags
+
+Use Comet Agent to extract visible text only
+
+Step 3 — Comment Extraction
+
+For each reel:
+
+Click “View all comments”
+
+Scroll until ~50–100 comments are visible
+
+Use Comet Agent to extract exact comment text only
+
+Do not summarize, cluster, or infer sentiment at this stage
+
+Step 4 — Data Recording
+
+Store data in:
+
+CSV or
+
+Structured JSON
+
+Maintain:
+
+One row per reel
+
+One row per comment
+
+7. Data Validation & Quality Checks
+7.1 Manual Validation
+
+Randomly verify 3–5 reels per creator:
+
+Likes ≤ Views
+
+Comments ≤ Likes
+
+No duplicate reel URLs
+
+Caption and comments match UI
+
+7.2 Consistency Checks
+
+Normalize numeric formats (K, M)
+
+Convert numeric fields to integers
+
+Validate hashtag extraction accuracy
+
+Ensure comment text completeness
+
+8. Data Cleaning & Processing
+8.1 Tools
+
+Python (pandas)
+
+Manual inspection for edge cases
+
+8.2 Processing Steps
+
+Normalize numeric units (1.2K → 1200)
+
+Split hashtags into arrays
+
+Derive:
+
+hashtag_count
+
+engagement_rate (optional)
+
+engagement_rate = (likes + comments_count + shares) / views
+
+8.3 Sentiment Analysis (Post-Processing)
+
+Run sentiment analysis on comment text using:
+
+Rule-based or ML models (offline)
+
+Output fields:
+
+sentiment (positive / neutral / negative)
+
+emotion (optional)
+
+⚠️ Sentiment reflects commenter reaction, not overall audience sentiment.
+
+9. Storage & Output
+9.1 Storage Format
+
+Raw data: CSV
+
+Cleaned data: CSV or Parquet
+
+9.2 File Naming Convention
+instagram_reels_snapshot_<YYYY-MM-DD>.csv
+instagram_reels_comments_<YYYY-MM-DD>.csv
+
+10. Risks & Limitations
+Risk	Mitigation
+UI layout changes	One-time snapshot limits exposure
+Agent extraction errors	Manual spot checks
+Comment sampling bias	Clear documentation of “top comments only”
+Missing reels	Full scroll verification
+Policy concerns	Manual, low-volume approach
+11. Ethical & Compliance Notes
+
+Only publicly visible data is collected
+
+No credential sharing or circumvention
+
+No background automation
+
+No redistribution of raw datasets
+
+Usage limited to internal research
+
+12. Success Criteria
+
+The process is successful if:
+
+All reels for selected creators are captured
+
+50–100 comments per reel are collected (where available)
+
+Dataset is analyzable without missing core fields
+
+No account restrictions or platform disruptions occur
+
+13. Future Extensions (Optional)
+
+Transition to Instagram Graph API for owned accounts
+
+Automated early-stage snapshotting (budget permitting)
+
+Advanced sentiment & emotion modeling
+
+Cross-creator content clustering and benchmarking
+
+14. Summary
+
+Manual UI-Assisted Instagram Analytics Collection (MUI-IAC) is a deliberately constrained, low-risk, zero-cost methodology for collecting engagement, sentiment, and content context data from Instagram Reels.
+
+It intentionally trades:
+
+Automation → Control
+
+Scale → Accuracy
+
+APIs → UI-verified truth

@@ -1,0 +1,386 @@
+Product Requirements Document (PRD)
+Version 1 — Similarity-Based Pre-Post Instagram Analytics
+1. Product Overview
+1.1 Product Name (Working)
+
+Similarity-Based Pre-Post Instagram Analytics (V1)
+
+1.2 Purpose
+
+The purpose of this product is to help new and early-stage Instagram creators make evidence-based decisions before posting content, even when they lack sufficient personal posting history.
+
+The product achieves this by:
+
+Analyzing historical performance of similar content
+
+Providing performance ranges, interaction patterns, and improvement guidance
+
+Explaining when and how similar content typically performs over time
+
+This product is strictly a decision-support analytics tool, not a prediction or growth-guarantee system.
+
+1.3 Explicit Non-Goals
+
+This product does not:
+
+Predict exact views or engagement
+
+Claim insight into Instagram’s ranking algorithm
+
+Guarantee performance outcomes
+
+Replace full post-publish analytics tools
+
+Perform marketing, scheduling, or posting actions
+
+2. Problem Statement
+
+Most existing Instagram analytics tools depend on user-owned historical data to generate insights.
+This creates a gap for newcomers who:
+
+Have little or no posting history
+
+Cannot benefit from traditional trend or performance analytics
+
+Are forced to post blindly and learn only after failure
+
+This product solves that gap by shifting the analysis unit from:
+
+“Your past posts” → “Historically similar content across creators”
+
+3. Target Users
+Primary Users
+
+New Instagram creators
+
+Creators restarting in a new niche
+
+Small creators with limited historical data
+
+Individuals validating content ideas before posting
+
+Out of Scope Users (V1)
+
+Large influencers optimizing campaigns
+
+Agencies requiring multi-account dashboards
+
+Brands seeking ROI attribution or conversion analytics
+
+4. Core Concept
+4.1 Guiding Principle
+
+If we cannot analyze your past content, we can analyze the past performance of similar content.
+
+The system uses content similarity + historical evidence to explain:
+
+What has happened before
+
+How similar content behaved over time
+
+What patterns were associated with better or worse outcomes
+
+5. Data Foundation (V1)
+5.1 Dataset Characteristics
+
+Platform: Instagram
+
+Content type: Reels
+
+Creators: ~5 creators
+
+Posts: A few hundred posts per creator
+
+Single content category / niche
+
+Time-bounded dataset (recent content preferred)
+
+5.2 Data Fields Available
+
+Views
+
+Likes
+
+Comments
+
+Shares
+
+Posting timestamp
+
+Caption text
+
+Hashtags
+
+Content topic & intent (derived)
+
+Sampled comment sentiment (derived)
+
+This dataset is sufficient for similarity analysis and time-based aggregation, but not for exact forecasting.
+
+6. User Input (V1)
+Required Inputs
+
+Draft caption text
+
+Hashtags (optional but recommended)
+
+Content category (explicit or inferred)
+
+Optional Inputs
+
+Intended posting time bucket (morning / afternoon / evening / night)
+
+Explicitly Not Required
+
+Account login
+
+Follower count
+
+Past posts
+
+Instagram permissions
+
+7. System Logic (High Level)
+7.1 Feature Extraction (Internal)
+
+From user input:
+
+Topic similarity embedding
+
+Content intent classification
+
+Hashtag theme clustering
+
+Caption structure features (length, hook, CTA presence)
+
+7.2 Similarity Matching
+
+Match user content against entire historical dataset
+
+Similarity based on:
+
+Topic
+
+Intent
+
+Hashtag themes
+
+Caption structure
+
+The match set intentionally includes:
+
+High-performing posts
+
+Average posts
+
+Low-performing posts
+
+This avoids survivorship bias.
+
+8. V1 Screens & Outputs
+
+V1 consists of 5 screens, no more.
+
+SCREEN 1 — Content Input
+
+Purpose: Collect draft content for analysis.
+
+Outputs: None
+Inputs: Caption, hashtags, category, optional posting time
+
+Success Criteria:
+User completes input in under 1 minute.
+
+SCREEN 2 — Similar Content Evidence Summary
+
+Purpose: Establish analytical context and trust.
+
+Outputs:
+
+Number of similar posts used
+
+Number of creators involved
+
+Content category
+
+Data time window
+
+Performance ranges
+
+Metrics Displayed:
+
+Views range (25th–75th percentile)
+
+Engagement rate range (25th–75th percentile)
+
+Key Rule:
+Ranges must be explicitly labeled as observed historical outcomes, not predictions.
+
+SCREEN 3 — Time-Based Performance Graph (Core Differentiator)
+
+Purpose: Show how similar content performs over time.
+
+Graph Definition
+
+X-axis: Time since posting
+(0–6h, 6–24h, Day 1–3, Day 4–7, Day 8–30)
+
+Y-axis:
+
+Mode 1: Cumulative views (normalized)
+
+Mode 2: Engagement accumulation (%)
+
+What Is Shown
+
+Median performance curve
+
+Shaded band representing P25–P75 range
+
+Insights Derived
+
+When most views occur
+
+When engagement peaks
+
+Whether content is short-lived or long-tail
+
+Explicitly Not Shown
+
+Exact future projections
+
+Algorithmic explanations
+
+SCREEN 4 — Viewer Interaction Patterns
+
+Purpose: Explain how audiences interact with similar content.
+
+Metrics Displayed:
+
+Engagement velocity (fast vs slow accumulation)
+
+Comment-to-like ratio
+
+Sentiment distribution of comments
+
+Timing of comment activity (early vs late)
+
+Outcome:
+User understands whether the content is:
+
+Passive consumption
+
+Discussion-driven
+
+Time-sensitive
+
+SCREEN 5 — Comparative Insights & Improvements
+
+Purpose: Convert evidence into actionable guidance.
+
+Section A — What Worked (Top Quartile)
+
+Patterns common in the top 25% of similar posts
+
+Section B — What Didn’t Work (Bottom Quartile)
+
+Patterns common in the bottom 25%
+
+Section C — Improvement Suggestions
+
+Max 3 suggestions
+
+Each suggestion must include:
+
+Observed pattern
+
+Supporting percentage or comparison
+
+Neutral, non-instructional wording
+
+No commands. Only observations.
+
+9. Language & Interpretation Rules
+
+The product must:
+
+Use “typically”, “tended to”, “observed”
+
+Avoid “will”, “guaranteed”, “predicts”
+
+Clearly separate:
+
+Data
+
+Interpretation
+
+Suggestions
+
+Uncertainty must be visible, not hidden.
+
+10. Failure Handling (V1)
+
+If similarity sample size < threshold:
+
+Disable ranges
+
+Show high-level guidance only
+
+Clearly state insufficient comparable data
+
+If time-based data is weak:
+
+Hide time graph
+
+Fall back to static performance ranges
+
+Fail explicitly and transparently.
+
+11. Risks & Mitigations
+Risk	Mitigation
+Users treat ranges as promises	Strong labeling + neutral visuals
+Creator size skews results	Normalize or bucket internally
+Stale trends	Time-decay weighting
+Over-analysis	Hard cap on insights
+12. Success Criteria (V1)
+
+V1 is successful if users:
+
+Understand when similar content performs
+
+Learn how audiences typically interact
+
+Identify 1–3 concrete improvements
+
+Do not expect guaranteed outcomes
+
+13. Explicitly Out of Scope (Post-V1)
+
+Visual frame analysis
+
+Audio or speech analysis
+
+Deep forecasting models
+
+User history blending
+
+Multi-niche datasets
+
+Automation or scheduling
+
+14. Final Summary
+
+Version 1 is a similarity-based historical behavior explainer.
+
+It does not predict the future.
+It explains the past clearly enough to support better decisions.
+
+This product trades:
+
+Certainty → Honesty
+
+Predictions → Evidence
+
+Hype → Clarity
+
+End of PRD — Version 1 (Final)

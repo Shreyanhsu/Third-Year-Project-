@@ -1,0 +1,246 @@
+Similarity Threshold Logic Design Document
+Version 1 — Evidence-Based Matching & Confidence Control
+1. Purpose of This Document
+
+This document defines the Similarity Threshold Logic used in Version 1 of the system to determine:
+
+Whether sufficient comparable data exists to perform analysis
+
+How confident the system should be in the generated insights
+
+What level of analytics output is appropriate for a given input
+
+The goal of this logic is to protect user trust, avoid misleading insights, and ensure explainability by enforcing conservative, data-backed thresholds.
+
+2. Core Principle
+
+The system does not attempt to infer or predict outcomes when the data is insufficient or weak.
+
+If similar historical content does not exist in sufficient quantity or quality, the system must show less or stop, rather than guess.
+
+3. Inputs to Similarity Threshold Logic
+
+The similarity logic operates on the following inputs derived from the similarity search stage:
+
+similarity_score (cosine similarity between embeddings)
+
+similar_posts_count (number of matched posts)
+
+unique_creator_count
+
+time_span_days (difference between earliest and latest matched post)
+
+similarity_score_distribution (median and spread)
+
+These inputs are computed prior to analytics aggregation.
+
+4. Similarity Score Bands
+
+Similarity scores are interpreted using defined bands:
+
+Similarity Band	Score Range	Interpretation
+Very High	≥ 0.85	Nearly identical content
+High	0.75 – 0.85	Strongly related
+Medium	0.65 – 0.75	Same theme, different angle
+Low	< 0.65	Weakly related
+
+V1 Rule:
+Posts with similarity scores below 0.65 are excluded from analysis.
+
+5. Minimum Data Gates
+
+These gates determine whether analysis can proceed.
+
+5.1 Gate 1 — Similar Post Count
+Condition	Action
+< 50 posts	Abort analysis
+50–99 posts	Proceed with limited confidence
+≥ 100 posts	Proceed with full analysis
+
+Rationale: Fewer than 50 examples produce unstable and misleading distributions.
+
+5.2 Gate 2 — Creator Diversity
+Condition	Action
+< 3 creators	Abort analysis
+3–4 creators	Low confidence
+≥ 5 creators	Healthy diversity
+
+Rationale: Prevents results from being dominated by a single creator’s posting behavior.
+
+5.3 Gate 3 — Time Coverage
+Condition	Interpretation
+< 14 days	Trend may be unstable
+14–29 days	Acceptable
+≥ 30 days	Strong temporal coverage
+
+Time coverage influences both confidence level and time-based graph availability.
+
+6. Multi-Stage Similarity Selection
+
+Similarity matching is performed in stages to balance precision and coverage.
+
+Stage 1 — Strict Matching
+
+Similarity score ≥ 0.80
+
+Maximum matches: 100
+
+If resulting post count ≥ 50 → proceed.
+
+Stage 2 — Relaxed Matching
+
+Triggered only if Stage 1 fails.
+
+Similarity score ≥ 0.70
+
+Maximum matches: 200
+
+If resulting post count ≥ 50 → proceed with reduced confidence.
+
+Stage 3 — Abort Condition
+
+If both stages result in fewer than 50 posts:
+
+Analysis is aborted
+
+System returns an “insufficient comparable data” response
+
+No numeric ranges or graphs are shown
+
+7. Confidence Level Determination
+
+Confidence levels are derived from observed data quality, not heuristics.
+
+7.1 Confidence Criteria
+
+High Confidence
+
+≥ 100 similar posts
+
+≥ 5 unique creators
+
+Median similarity ≥ 0.75
+
+Time span ≥ 30 days
+
+Medium Confidence
+
+50–99 similar posts
+
+≥ 3 unique creators
+
+Median similarity ≥ 0.70
+
+Time span ≥ 14 days
+
+Low Confidence
+
+Barely meets minimum gates
+
+Narrow similarity distribution
+
+Limited time coverage
+
+8. Output Gating by Confidence Level
+Confidence Level	Outputs Allowed
+High	Full ranges, time graph, interaction patterns, insights
+Medium	Ranges and time graph with caution
+Low	High-level qualitative patterns only
+None	Abort with explanation
+
+This prevents overinterpretation of weak data.
+
+9. Time-Based Performance Graph Thresholds
+
+Time-based analysis has separate gating requirements.
+
+Requirements
+
+Minimum similar posts: 75
+
+Minimum time span: 21 days
+
+If either condition fails:
+
+Time graph is hidden
+
+Static analysis remains (if confidence allows)
+
+10. Weighted Aggregation Logic
+
+Metric aggregation must respect similarity strength.
+
+Weighted Metric =
+Σ(metric × similarity_score) / Σ(similarity_score)
+
+
+This ensures that:
+
+Stronger matches influence results more
+
+Weaker matches do not distort outcomes
+
+11. Edge Case Handling
+11.1 Novel Content Ideas
+
+If similarity matches are below threshold:
+
+System identifies content as uncommon
+
+Outputs high-level topic guidance only
+
+No performance ranges or projections shown
+
+11.2 Emerging Trends
+
+If similarity is strong but time span is short:
+
+Performance ranges shown
+
+No decay or longevity conclusions made
+
+12. Explicit Constraints
+
+The system must never:
+
+Expand similarity thresholds indefinitely
+
+Fill missing data with global averages
+
+Hide low confidence states
+
+Generate numeric outputs when data is insufficient
+
+13. Explainability Requirement
+
+For every analysis session, the system must be able to answer:
+
+How many posts were used?
+
+Over what time period?
+
+From how many creators?
+
+Why a certain confidence level was assigned?
+
+This information must be available internally and partially exposed to the user.
+
+14. Simple Explanation (Non-Technical)
+
+The system only compares your post to content that is genuinely similar.
+If there aren’t enough examples, it stops instead of guessing.
+The more examples and diversity it finds, the more confident its insights become.
+
+15. Summary
+
+The Similarity Threshold Logic ensures that:
+
+Analytics are grounded in sufficient, relevant data
+
+Uncertainty is surfaced, not hidden
+
+User trust is preserved over short-term completeness
+
+This logic is foundational to Version 1 and must be enforced consistently across all analytics outputs.
+
+End of Document — Similarity Threshold Logic (V1)
