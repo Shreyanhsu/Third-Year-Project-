@@ -1,0 +1,232 @@
+Fixed Rules (Re-confirmed)
+
+Execution mode: Sequential
+
+Posts per creator: 100–150
+
+Comments per post: 50
+
+Data source: Visible Instagram UI only
+
+No ML, no aggregation, no inference in this phase
+
+🪜 STEP-BY-STEP LOGIC (What Playwright Does)
+🔹 STEP 1: Load Phase 1 JSON
+
+Playwright starts by loading the post index JSON created in Phase 1.
+
+From it, we read:
+
+creator_username
+
+niche
+
+posts_index[] → list of post URLs
+
+This list becomes the authoritative input.
+
+📌 If Phase 1 JSON changes → Phase 2 output changes
+📌 This is reproducible and auditable
+
+🔹 STEP 2: Initialize Sequential Loop
+
+Internally, we track:
+
+current_post_index
+
+total_posts_to_scrape
+
+success_count
+
+failure_count
+
+Example (conceptual):
+
+Scraping post 1 / 120
+Scraping post 2 / 120
+...
+
+
+This is great for logs and demo visibility.
+
+🔹 STEP 3: Open ONE Post
+
+For the current post:
+
+Navigate to:
+
+https://www.instagram.com/p/<post_id>/
+
+
+Wait until:
+
+Post container loads
+
+Caption area is visible
+
+Metrics section is visible
+
+⏳ Waits are intentional to avoid DOM race conditions.
+
+🔹 STEP 4: Extract POST METADATA
+
+From visible UI, extract:
+
+Identity
+
+post_id
+
+reel_url
+
+post_type (reel)
+
+Time
+
+posted_at (from <time datetime="">)
+
+scraped_at (current system time)
+
+📌 These two timestamps are very important academically.
+
+🔹 STEP 5: Extract CAPTION & HASHTAGS
+
+Playwright reads:
+
+Full caption text
+
+Extracts hashtags from caption
+
+Counts hashtags
+
+Stored as:
+
+caption
+
+hashtags[]
+
+hashtag_count
+
+❌ No NLP
+❌ No topic detection
+✔ Raw text only
+
+🔹 STEP 6: Extract METRICS (Visible Only)
+
+From the UI:
+
+views
+
+likes
+
+comments_count
+
+shares (only if visible)
+
+Rules:
+
+Numbers may be in K / M
+
+Stored as-is or normalized later (your choice, but I recommend normalize in cleaning phase)
+
+❌ No engagement rate here
+
+🔹 STEP 7: Open Comments Section
+
+Playwright:
+
+Clicks “View all comments”
+
+Waits for comments to load
+
+Scrolls comments area slowly
+
+🔹 STEP 8: Collect EXACTLY 50 COMMENTS
+
+Sequential comment logic:
+
+Start from top
+
+After each scroll:
+
+Read newly visible comments
+
+Append to list
+
+Stop immediately when:
+
+comments_collected == 50
+
+
+For each comment, store:
+
+comment_order
+
+comment_text
+
+scraped_at
+
+📌 You explicitly do not claim completeness
+📌 This is a sample, and that is documented
+
+🔹 STEP 9: Save POST DATA IMMEDIATELY
+
+After finishing one post, Playwright:
+
+Appends post data to in-memory structure
+
+OR writes incrementally to disk
+
+This is critical:
+
+If scraping stops at post 63, you still have data for 62 posts.
+
+Sequential mode shines here.
+
+🔹 STEP 10: Move to NEXT Post
+
+Only after:
+
+Post metrics ✅
+
+Caption ✅
+
+50 comments ✅
+
+Data saved ✅
+
+…Playwright moves to the next URL.
+
+No overlap. No concurrency.
+
+🔹 STEP 11: Handle Failures (Gracefully)
+
+If a post fails to load or comments don’t appear:
+
+Mark post as:
+
+status: "failed"
+reason: "comments_not_visible"
+
+
+Continue to next post
+
+Log failure separately
+
+This is honest and professional.
+
+🔹 STEP 12: Final Phase 2 JSON Output
+
+At the end, you produce one JSON per creator:
+
+post_content_<creator>_<YYYY-MM-DD>.json
+
+
+Includes:
+
+posts[]
+
+summary
+
+failure_log[]
+
+This is your raw dataset

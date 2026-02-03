@@ -1,0 +1,129 @@
+ERROR HANDLING & RETRY POLICY (FINAL DESIGN)
+
+This policy is part of your methodology. You can literally explain this in viva.
+
+🎯 Design Principles
+
+❌ Never retry aggressively
+
+❌ Never loop infinitely
+
+✅ Fail explicitly
+
+✅ Log everything
+
+✅ Continue scraping even if some posts fail
+
+🔁 Retry Strategy (Simple & Safe)
+Global rules
+
+Max retries per action: 2
+
+Retry delay: 3–5 seconds (random)
+
+Retry scope: only the failed step, not the whole script
+
+🧩 PHASE 1 — Error Handling (Post Indexing)
+Possible failures & handling
+❌ Profile not accessible
+
+Cause: private / blocked / typo
+Action:
+
+Abort creator
+
+Log reason
+
+Move to next creator
+
+{
+  "creator": "abc",
+  "status": "aborted",
+  "reason": "profile_not_accessible"
+}
+
+❌ Reels tab not found
+
+Cause: no reels / UI change
+Action:
+
+Abort creator
+
+Log reason
+
+❌ Scroll loads no new posts
+
+Cause: end of content
+Action:
+
+Stop scrolling
+
+Finalize index (even if <150)
+
+❌ Collected posts < 100
+
+Action:
+
+Continue
+
+Mark dataset as low_coverage: true
+
+This is honest, not an error.
+
+🧩 PHASE 2 — Error Handling (Post Content)
+Per-post failure isolation (VERY IMPORTANT)
+
+Each post is treated as independent.
+
+❌ Post page fails to load
+
+Retry: 2 times
+If still fails:
+
+Mark post as failed
+
+Continue to next post
+
+{
+  "post_id": "C123",
+  "status": "failed",
+  "reason": "page_load_timeout"
+}
+
+❌ Metrics not visible
+
+Retry: reload once
+If still missing:
+
+Save post with metrics_partial: true
+
+Do NOT fabricate values
+
+❌ Comments not loading
+
+Retry: click + scroll again
+If still fails:
+
+Save post with comments_collected: 0
+
+Mark reason
+
+❌ Script crash / interruption
+
+Protection:
+
+Save data after every post
+
+Resume from last successful index
+
+Sequential mode makes this easy.
+
+🧠 Why This Policy Is Strong
+
+No hidden retries
+
+No silent failures
+
+Data integrity > completeness
+
+Very easy to justify academically

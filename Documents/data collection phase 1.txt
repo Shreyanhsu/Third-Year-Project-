@@ -1,0 +1,231 @@
+FINALIZED CONSTRAINTS (LOCKED)
+
+These are now part of your methodology:
+
+📌 Post collection
+
+Minimum posts: 100
+
+Maximum posts: 150
+
+Selection: Most recent posts only
+
+Content type: Reels only
+
+Niche: Single niche (already fixed)
+
+📌 Comment sampling (future phase)
+
+Comments per post: 50
+
+Visible comments only
+
+Top-loaded sample (no guarantee of chronological completeness)
+
+We will not violate these later.
+
+🧩 PHASE 1 — POST INDEXING
+
+(Playwright logic design — NO CODE)
+
+🎯 Objective of Phase 1
+
+Collect 100–150 Reel post URLs from a creator’s profile
+without opening posts or scraping metrics.
+
+🧠 High-Level Flow (One Sentence)
+
+Open creator profile → switch to Reels → scroll slowly → collect post URLs → stop at 150 or end.
+
+🪜 STEP-BY-STEP PLAYWRIGHT LOGIC
+🔹 STEP 1: Launch Browser & Session
+
+What happens:
+
+Playwright opens real Chrome
+
+Uses existing logged-in Instagram session
+
+No headless mode
+
+Why:
+
+Avoids login loops
+
+Looks human
+
+Stable for scrolling
+
+🔹 STEP 2: Navigate to Creator Profile
+
+Playwright goes to:
+
+https://www.instagram.com/<creator_username>/
+
+
+Then it:
+
+Waits until profile grid loads
+
+Verifies profile is public
+
+Reads:
+
+visible follower count (string only, e.g. “1.2M”)
+
+verified badge (if present)
+
+📌 No scrolling yet.
+
+🔹 STEP 3: Switch to “Reels” Tab
+
+Playwright:
+
+Clicks Reels tab
+
+Waits until Reel grid is visible
+
+Validation:
+
+Ensures content is reels only
+
+If no reels → abort this creator
+
+This protects your dataset quality.
+
+🔹 STEP 4: Initialize Post URL Collector
+
+Internally, Playwright maintains:
+
+An empty set (to avoid duplicates)
+
+A counter starting at 0
+
+Example (conceptual):
+
+collectedPostURLs = Set()
+
+🔹 STEP 5: Controlled Scrolling Loop
+
+This is the most important part.
+
+Scroll behavior:
+
+Scroll down by ~1 viewport
+
+Wait 1.5–2.5 seconds
+
+Let Instagram load more posts
+
+Repeat
+
+This mimics human scrolling.
+
+🔹 STEP 6: Extract Reel URLs After Each Scroll
+
+After each scroll:
+
+Playwright scans visible reel cards
+
+Extracts:
+
+/p/<post_id>/ URLs only
+
+Adds new URLs to the set
+
+Rules:
+
+Ignore duplicates
+
+Ignore non-reel URLs
+
+🔹 STEP 7: Stop Conditions (CRITICAL)
+
+Scrolling stops immediately when any one condition is met:
+
+✅ Condition A — Max reached
+collectedPostURLs.length >= 150
+
+✅ Condition B — End of content
+
+No new posts after 3 consecutive scrolls
+
+❌ Condition C — Min not reached
+
+If total collected < 100:
+
+Log warning
+
+Still proceed (but flagged as low coverage)
+
+📌 This is honest and evaluatable.
+
+🔹 STEP 8: Freeze & Finalize Post Index
+
+Once scrolling stops:
+
+Playwright:
+
+Sorts posts by appearance order
+
+Assigns position_on_profile
+
+Trims list to:
+
+100–150 posts only
+
+This creates a deterministic index.
+
+🔹 STEP 9: Save PHASE 1 JSON
+
+Final output:
+
+One JSON file per creator
+
+Filename format:
+
+post_index_<creator>_<YYYY-MM-DD>.json
+
+
+This file becomes input for Phase 2.
+
+🧠 Why This Phase Design Is VERY STRONG
+✔ Reproducible
+
+Same creator + same day → similar output
+
+✔ Auditable
+
+You can show:
+
+why you stopped
+
+how many posts existed
+
+how many were selected
+
+✔ Safe
+
+No aggressive automation
+
+No hidden endpoints
+
+No data inference
+
+🔗 How This Supports Phase 2 (Later)
+
+Phase 2 will:
+
+Read this JSON
+
+Loop through only these URLs
+
+Collect:
+
+metrics
+
+caption
+
+50 comments per post
+
+So Phase 1 becomes a contract.
