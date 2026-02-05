@@ -1,0 +1,864 @@
+{
+  "schema_version": "1.0",
+  "scrape_phase": "post_index",
+  "creator": {
+    "creator_username": "Kajal_goyal__",
+    "profile_url": "https://www.instagram.com/Kajal_goyal__/",
+    "niche": "Beauty",
+    "followers_count_visible": "36.1K",
+    "verified": false
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-02-03T21:12:50.191Z",
+    "scraper_type": "playwright_ui_controlled",
+    "post_selection_strategy": "balanced_with_reel_fallback",
+    "max_posts_collected": 120,
+    "scroll_behavior": "manual_like_slow_scroll"
+  },
+  "posts_index": [
+    {
+      "post_id": "DUP71NdklYy",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DUP71NdklYy/",
+      "position_on_profile": 1,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUKuajeEqGN",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DUKuajeEqGN/",
+      "position_on_profile": 2,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUFjVKbki25",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DUFjVKbki25/",
+      "position_on_profile": 3,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUAaIrlEltw",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DUAaIrlEltw/",
+      "position_on_profile": 4,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT7RRMSCudV",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DT7RRMSCudV/",
+      "position_on_profile": 5,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT2HBDVEkH-",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DT2HBDVEkH-/",
+      "position_on_profile": 6,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTz1klMEl7T",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DTz1klMEl7T/",
+      "position_on_profile": 7,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTw7qhiEmdq",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DTw7qhiEmdq/",
+      "position_on_profile": 8,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTuX6a9kut_",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DTuX6a9kut_/",
+      "position_on_profile": 9,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTkE4fsktbF",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DTkE4fsktbF/",
+      "position_on_profile": 10,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTe8QyuEqXs",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DTe8QyuEqXs/",
+      "position_on_profile": 11,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTZwHvoEqrf",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DTZwHvoEqrf/",
+      "position_on_profile": 12,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTXMWEdEiP4",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DTXMWEdEiP4/",
+      "position_on_profile": 13,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTUYxDyEgi3",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DTUYxDyEgi3/",
+      "position_on_profile": 14,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTPVM9_Coaz",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DTPVM9_Coaz/",
+      "position_on_profile": 15,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTPc3u_kqPK",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DTPc3u_kqPK/",
+      "position_on_profile": 16,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTKVZfpEqq8",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DTKVZfpEqq8/",
+      "position_on_profile": 17,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTFMh_TkuTS",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DTFMh_TkuTS/",
+      "position_on_profile": 18,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTAD4ZHkuRd",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DTAD4ZHkuRd/",
+      "position_on_profile": 19,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS4Vi8eCuie",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DS4Vi8eCuie/",
+      "position_on_profile": 20,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS1uasCio_A",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DS1uasCio_A/",
+      "position_on_profile": 21,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSuHdW4EnRt",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DSuHdW4EnRt/",
+      "position_on_profile": 22,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSo1L6UkkNo",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DSo1L6UkkNo/",
+      "position_on_profile": 23,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSmQcFYknT4",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DSmQcFYknT4/",
+      "position_on_profile": 24,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DShHkbOErXl",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DShHkbOErXl/",
+      "position_on_profile": 25,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSch1_pitHD",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DSch1_pitHD/",
+      "position_on_profile": 26,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSb-jD7ktQw",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DSb-jD7ktQw/",
+      "position_on_profile": 27,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSaWU4oksvs",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DSaWU4oksvs/",
+      "position_on_profile": 28,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSW1Qwykk15",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DSW1Qwykk15/",
+      "position_on_profile": 29,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSRqSlsElBi",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DSRqSlsElBi/",
+      "position_on_profile": 30,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSPbffbkmCE",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DSPbffbkmCE/",
+      "position_on_profile": 31,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSJ9vAaEsQy",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DSJ9vAaEsQy/",
+      "position_on_profile": 32,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSEdZXgksA7",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DSEdZXgksA7/",
+      "position_on_profile": 33,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSCOSEzEktA",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DSCOSEzEktA/",
+      "position_on_profile": 34,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR89fTpEpi4",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DR89fTpEpi4/",
+      "position_on_profile": 35,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR36rMsEgnz",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DR36rMsEgnz/",
+      "position_on_profile": 36,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRyw2YgEnLW",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DRyw2YgEnLW/",
+      "position_on_profile": 37,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRtnCAvCl0O",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DRtnCAvCl0O/",
+      "position_on_profile": 38,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRlyK7XEjLy",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DRlyK7XEjLy/",
+      "position_on_profile": 39,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRjTZlXksmp",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DRjTZlXksmp/",
+      "position_on_profile": 40,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUNEkEokoon",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DUNEkEokoon/",
+      "position_on_profile": 41,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT9itBfiiXA",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DT9itBfiiXA/",
+      "position_on_profile": 42,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTpB9ELkrWC",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DTpB9ELkrWC/",
+      "position_on_profile": 43,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTKJDuNEpG5",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DTKJDuNEpG5/",
+      "position_on_profile": 44,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSzIB-yEmnY",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DSzIB-yEmnY/",
+      "position_on_profile": 45,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSxFArMkuSd",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DSxFArMkuSd/",
+      "position_on_profile": 46,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSfNeWxkuQC",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DSfNeWxkuQC/",
+      "position_on_profile": 47,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSHvvtDEmaC",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DSHvvtDEmaC/",
+      "position_on_profile": 48,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRrKkp0Ej4t",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DRrKkp0Ej4t/",
+      "position_on_profile": 49,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRohOPLEk5R",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DRohOPLEk5R/",
+      "position_on_profile": 50,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ540fhElZI",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DQ540fhElZI/",
+      "position_on_profile": 51,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQo1koyksj_",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DQo1koyksj_/",
+      "position_on_profile": 52,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQOI0IxkuI7",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DQOI0IxkuI7/",
+      "position_on_profile": 53,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP3Dr0aEl1x",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DP3Dr0aEl1x/",
+      "position_on_profile": 54,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPsxwtsElxI",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DPsxwtsElxI/",
+      "position_on_profile": 55,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPnxVvhktcd",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DPnxVvhktcd/",
+      "position_on_profile": 56,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOfmRGZEjPM",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DOfmRGZEjPM/",
+      "position_on_profile": 57,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOVGiNrEgsR",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DOVGiNrEgsR/",
+      "position_on_profile": 58,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOAhlYZknc7",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DOAhlYZknc7/",
+      "position_on_profile": 59,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNmxyPlyzMU",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DNmxyPlyzMU/",
+      "position_on_profile": 60,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DM0VlaLyLox",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DM0VlaLyLox/",
+      "position_on_profile": 61,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMpI2GES2Px",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DMpI2GES2Px/",
+      "position_on_profile": 62,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMXDcSZSrws",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DMXDcSZSrws/",
+      "position_on_profile": 63,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMIhCHiSHCP",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DMIhCHiSHCP/",
+      "position_on_profile": 64,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLg9K0zyhQw",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DLg9K0zyhQw/",
+      "position_on_profile": 65,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DK7MLtiyqj3",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DK7MLtiyqj3/",
+      "position_on_profile": 66,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKwNehnyX5x",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DKwNehnyX5x/",
+      "position_on_profile": 67,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKUlAh2ymin",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DKUlAh2ymin/",
+      "position_on_profile": 68,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJLiys-pGly",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DJLiys-pGly/",
+      "position_on_profile": 69,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DI-3oaBpiZs",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DI-3oaBpiZs/",
+      "position_on_profile": 70,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DFCj3IdJtie",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DFCj3IdJtie/",
+      "position_on_profile": 71,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DC2QYoeTANP",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/DC2QYoeTANP/",
+      "position_on_profile": 72,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C6BsO5-P94P",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/C6BsO5-P94P/",
+      "position_on_profile": 73,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C4BXVnhPffm",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/C4BXVnhPffm/",
+      "position_on_profile": 74,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C1xCoc_vSm_",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/C1xCoc_vSm_/",
+      "position_on_profile": 75,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C0GrxRMPMX7",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/C0GrxRMPMX7/",
+      "position_on_profile": 76,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CvmB-vEPCCf",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/CvmB-vEPCCf/",
+      "position_on_profile": 77,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CvVRIKPvfml",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/CvVRIKPvfml/",
+      "position_on_profile": 78,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CvAsFxLvrfv",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/CvAsFxLvrfv/",
+      "position_on_profile": 79,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "Cuz0gYlybVX",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/Cuz0gYlybVX/",
+      "position_on_profile": 80,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CuwaLurPK_h",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/CuwaLurPK_h/",
+      "position_on_profile": 81,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CuMzwmrPtxa",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/CuMzwmrPtxa/",
+      "position_on_profile": 82,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "Ct1zycxPzfP",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/Ct1zycxPzfP/",
+      "position_on_profile": 83,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CtFAN_9vSfn",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/CtFAN_9vSfn/",
+      "position_on_profile": 84,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CsdS-Xfvg4A",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/CsdS-Xfvg4A/",
+      "position_on_profile": 85,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CsOYjzRv5Rp",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/CsOYjzRv5Rp/",
+      "position_on_profile": 86,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CsLfXfbvF63",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/CsLfXfbvF63/",
+      "position_on_profile": 87,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "Cr8kp7NPlwL",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/Cr8kp7NPlwL/",
+      "position_on_profile": 88,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "Cr47hOpvhQA",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/Cr47hOpvhQA/",
+      "position_on_profile": 89,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CrxUMctvbDp",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/CrxUMctvbDp/",
+      "position_on_profile": 90,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CrsG-bgPDch",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/CrsG-bgPDch/",
+      "position_on_profile": 91,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "Cqmk5n8P8Rc",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/Cqmk5n8P8Rc/",
+      "position_on_profile": 92,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "Cqhbx9uPJZ0",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/Cqhbx9uPJZ0/",
+      "position_on_profile": 93,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CqhZia-vGat",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/CqhZia-vGat/",
+      "position_on_profile": 94,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "Cpp6zkPv17U",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/Cpp6zkPv17U/",
+      "position_on_profile": 95,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "Cphc2XqvqR5",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/Cphc2XqvqR5/",
+      "position_on_profile": 96,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CpZR4NZvn1B",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/CpZR4NZvn1B/",
+      "position_on_profile": 97,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "Co1eX9MPtl0",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/Co1eX9MPtl0/",
+      "position_on_profile": 98,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CozztU2vaSu",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/CozztU2vaSu/",
+      "position_on_profile": 99,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CozvbEyPFjG",
+      "reel_url": "https://www.instagram.com/kajal_goyal__/p/CozvbEyPFjG/",
+      "position_on_profile": 100,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRfIOEDEmPC",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DRfIOEDEmPC/",
+      "position_on_profile": 101,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DReMPoCEl8E",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DReMPoCEl8E/",
+      "position_on_profile": 102,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRbaorvEgtx",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DRbaorvEgtx/",
+      "position_on_profile": 103,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRW5zJhks4H",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DRW5zJhks4H/",
+      "position_on_profile": 104,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRT2x-DEmIT",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DRT2x-DEmIT/",
+      "position_on_profile": 105,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRPKE36ksMw",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DRPKE36ksMw/",
+      "position_on_profile": 106,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DROhXLnEvV6",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DROhXLnEvV6/",
+      "position_on_profile": 107,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRJlG1QkiK3",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DRJlG1QkiK3/",
+      "position_on_profile": 108,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRHUikhklWS",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DRHUikhklWS/",
+      "position_on_profile": 109,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DREiGYWEsJb",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DREiGYWEsJb/",
+      "position_on_profile": 110,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ_u1PGkuBy",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DQ_u1PGkuBy/",
+      "position_on_profile": 111,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ_Griikk44",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DQ_Griikk44/",
+      "position_on_profile": 112,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ8sDnDEilX",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DQ8sDnDEilX/",
+      "position_on_profile": 113,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQzCcKcEnw2",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DQzCcKcEnw2/",
+      "position_on_profile": 114,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQyTUy5khH-",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DQyTUy5khH-/",
+      "position_on_profile": 115,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQvodEKEjR_",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DQvodEKEjR_/",
+      "position_on_profile": 116,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQqtZvnEnEX",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DQqtZvnEnEX/",
+      "position_on_profile": 117,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQoGWWckl89",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DQoGWWckl89/",
+      "position_on_profile": 118,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQiwsdSEpNF",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DQiwsdSEpNF/",
+      "position_on_profile": 119,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQgKvvdksRT",
+      "reel_url": "https://www.instagram.com/Kajal_goyal__/reel/DQgKvvdksRT/",
+      "position_on_profile": 120,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    }
+  ],
+  "summary": {
+    "total_posts_found": 354,
+    "posts_indexed": 120
+  }
+}

@@ -1,0 +1,864 @@
+{
+  "schema_version": "1.0",
+  "scrape_phase": "post_index",
+  "creator": {
+    "creator_username": "Ishitaaa.10",
+    "profile_url": "https://www.instagram.com/Ishitaaa.10/",
+    "niche": "Beauty",
+    "followers_count_visible": "122K",
+    "verified": false
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-02-04T04:03:51.954Z",
+    "scraper_type": "playwright_ui_controlled",
+    "post_selection_strategy": "balanced_with_reel_fallback",
+    "max_posts_collected": 120,
+    "scroll_behavior": "manual_like_slow_scroll"
+  },
+  "posts_index": [
+    {
+      "post_id": "CmRN2G5pYIr",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/CmRN2G5pYIr/",
+      "position_on_profile": 1,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DULdCyFEtkK",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DULdCyFEtkK/",
+      "position_on_profile": 2,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUGINyJjS7D",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DUGINyJjS7D/",
+      "position_on_profile": 3,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUDuDOyDSuz",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DUDuDOyDSuz/",
+      "position_on_profile": 4,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT2hOaKEnu-",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DT2hOaKEnu-/",
+      "position_on_profile": 5,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT0CMwgjRix",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DT0CMwgjRix/",
+      "position_on_profile": 6,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTvP5D_kvN8",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DTvP5D_kvN8/",
+      "position_on_profile": 7,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTsS6SPjcBx",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DTsS6SPjcBx/",
+      "position_on_profile": 8,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTnQEnhkkhy",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DTnQEnhkkhy/",
+      "position_on_profile": 9,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTiAYpYElOX",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DTiAYpYElOX/",
+      "position_on_profile": 10,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTfkgJzDQp9",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DTfkgJzDQp9/",
+      "position_on_profile": 11,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTc8H9Tkhbn",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DTc8H9Tkhbn/",
+      "position_on_profile": 12,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTaij9gEjD2",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DTaij9gEjD2/",
+      "position_on_profile": 13,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTKz5W7DdlE",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DTKz5W7DdlE/",
+      "position_on_profile": 14,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTIJhTJDcTJ",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DTIJhTJDcTJ/",
+      "position_on_profile": 15,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTFt_OnDTe7",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DTFt_OnDTe7/",
+      "position_on_profile": 16,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTDP4hAEgYx",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DTDP4hAEgYx/",
+      "position_on_profile": 17,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS933PIEovL",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DS933PIEovL/",
+      "position_on_profile": 18,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS2Y7LvEptN",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DS2Y7LvEptN/",
+      "position_on_profile": 19,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSpjOU2DTZm",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DSpjOU2DTZm/",
+      "position_on_profile": 20,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSW4SCZEpB-",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DSW4SCZEpB-/",
+      "position_on_profile": 21,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSKqzfkDaJp",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DSKqzfkDaJp/",
+      "position_on_profile": 22,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSFSiVBDTW7",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DSFSiVBDTW7/",
+      "position_on_profile": 23,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR6m1G8jYMV",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DR6m1G8jYMV/",
+      "position_on_profile": 24,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRyr3bODfJ0",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DRyr3bODfJ0/",
+      "position_on_profile": 25,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DREheiECFPC",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DREheiECFPC/",
+      "position_on_profile": 26,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRCFqlhiOMF",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DRCFqlhiOMF/",
+      "position_on_profile": 27,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ_eiREDePL",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DQ_eiREDePL/",
+      "position_on_profile": 28,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ88BayDdx9",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DQ88BayDdx9/",
+      "position_on_profile": 29,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ6MtfMDRbT",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DQ6MtfMDRbT/",
+      "position_on_profile": 30,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ34kO4DRWG",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DQ34kO4DRWG/",
+      "position_on_profile": 31,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ1M7_vjW3j",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DQ1M7_vjW3j/",
+      "position_on_profile": 32,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQtzJ7fDb_t",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DQtzJ7fDb_t/",
+      "position_on_profile": 33,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQrDBNLjcJ_",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DQrDBNLjcJ_/",
+      "position_on_profile": 34,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQo63kFjy-h",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DQo63kFjy-h/",
+      "position_on_profile": 35,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQnt3Duj-lY",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DQnt3Duj-lY/",
+      "position_on_profile": 36,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQj64wIgRHF",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DQj64wIgRHF/",
+      "position_on_profile": 37,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQjMgjeiK4v",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DQjMgjeiK4v/",
+      "position_on_profile": 38,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQd84y4kfe-",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DQd84y4kfe-/",
+      "position_on_profile": 39,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQY3lJxCaNj",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DQY3lJxCaNj/",
+      "position_on_profile": 40,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CmMSVUsJh7I",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/CmMSVUsJh7I/",
+      "position_on_profile": 41,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT-t2y5Eo3U",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DT-t2y5Eo3U/",
+      "position_on_profile": 42,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTj8nwlDQXz",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DTj8nwlDQXz/",
+      "position_on_profile": 43,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTYJQSHDfH_",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DTYJQSHDfH_/",
+      "position_on_profile": 44,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS1rpl_kiYR",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DS1rpl_kiYR/",
+      "position_on_profile": 45,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSr1n9sjbTL",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DSr1n9sjbTL/",
+      "position_on_profile": 46,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSkTVa2jQZS",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DSkTVa2jQZS/",
+      "position_on_profile": 47,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSe5fcXDTbZ",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DSe5fcXDTbZ/",
+      "position_on_profile": 48,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR_mHbAjRWN",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DR_mHbAjRWN/",
+      "position_on_profile": 49,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRwziobDcqk",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DRwziobDcqk/",
+      "position_on_profile": 50,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRo9IjrDewP",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DRo9IjrDewP/",
+      "position_on_profile": 51,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRmcarCDfB_",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DRmcarCDfB_/",
+      "position_on_profile": 52,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRj24i7Dd_F",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DRj24i7Dd_F/",
+      "position_on_profile": 53,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRhdPzQDQz6",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DRhdPzQDQz6/",
+      "position_on_profile": 54,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRe-8O7DSzY",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DRe-8O7DSzY/",
+      "position_on_profile": 55,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRCiw4_jSOK",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DRCiw4_jSOK/",
+      "position_on_profile": 56,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ9RXL2DbGO",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DQ9RXL2DbGO/",
+      "position_on_profile": 57,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ3pbkBDWu7",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DQ3pbkBDWu7/",
+      "position_on_profile": 58,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ0-wUtjeyS",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DQ0-wUtjeyS/",
+      "position_on_profile": 59,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQy74GNDTfu",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DQy74GNDTfu/",
+      "position_on_profile": 60,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQv61A9Ddfl",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DQv61A9Ddfl/",
+      "position_on_profile": 61,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQog4Abjc1q",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DQog4Abjc1q/",
+      "position_on_profile": 62,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQbjW3wjcCl",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DQbjW3wjcCl/",
+      "position_on_profile": 63,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQYkcnOjcoX",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DQYkcnOjcoX/",
+      "position_on_profile": 64,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPq8ez6DXXx",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DPq8ez6DXXx/",
+      "position_on_profile": 65,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPk6Mdxjdeq",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DPk6Mdxjdeq/",
+      "position_on_profile": 66,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPiZkcWjcLb",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DPiZkcWjcLb/",
+      "position_on_profile": 67,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPZNbR7DZKP",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DPZNbR7DZKP/",
+      "position_on_profile": 68,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPTHrPYkjVO",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DPTHrPYkjVO/",
+      "position_on_profile": 69,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPGfI5yjXcl",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DPGfI5yjXcl/",
+      "position_on_profile": 70,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOyLh4VjXhR",
+      "reel_url": "https://www.instagram.com/ishitaaa.10/p/DOyLh4VjXhR/",
+      "position_on_profile": 71,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQWBhJaDRkR",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DQWBhJaDRkR/",
+      "position_on_profile": 72,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQTc97sDUVp",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DQTc97sDUVp/",
+      "position_on_profile": 73,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP-0nJ4khmL",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DP-0nJ4khmL/",
+      "position_on_profile": 74,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPyxkLxkhLR",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DPyxkLxkhLR/",
+      "position_on_profile": 75,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPgkF-uDHQO",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DPgkF-uDHQO/",
+      "position_on_profile": 76,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPbIjHqjQxg",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DPbIjHqjQxg/",
+      "position_on_profile": 77,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPV-Rz4jUO2",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DPV-Rz4jUO2/",
+      "position_on_profile": 78,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOs1uFhjaZb",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DOs1uFhjaZb/",
+      "position_on_profile": 79,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOliIWhkq5G",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DOliIWhkq5G/",
+      "position_on_profile": 80,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOIhbzgki9n",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DOIhbzgki9n/",
+      "position_on_profile": 81,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOD0eESkuez",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DOD0eESkuez/",
+      "position_on_profile": 82,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNf_pQYKgIC",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DNf_pQYKgIC/",
+      "position_on_profile": 83,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNaO655JrHU",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DNaO655JrHU/",
+      "position_on_profile": 84,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNS__XLKQS1",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DNS__XLKQS1/",
+      "position_on_profile": 85,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLNLZoTJxRn",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DLNLZoTJxRn/",
+      "position_on_profile": 86,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLFXXZxKwAo",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DLFXXZxKwAo/",
+      "position_on_profile": 87,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DK7GjDhvgx0G2KntDDjyQizUljvzsi79kP0gug0",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DK7GjDhvgx0G2KntDDjyQizUljvzsi79kP0gug0/",
+      "position_on_profile": 88,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DK4rigdpBDF",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DK4rigdpBDF/",
+      "position_on_profile": 89,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DK1qjb_K7qL",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DK1qjb_K7qL/",
+      "position_on_profile": 90,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKwwLaXpeok",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DKwwLaXpeok/",
+      "position_on_profile": 91,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKmhoecpaX6",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DKmhoecpaX6/",
+      "position_on_profile": 92,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKl9cJjphe8",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DKl9cJjphe8/",
+      "position_on_profile": 93,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKcBCH6peME",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DKcBCH6peME/",
+      "position_on_profile": 94,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKO27osJUZb",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DKO27osJUZb/",
+      "position_on_profile": 95,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKHqUsRqbxn",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DKHqUsRqbxn/",
+      "position_on_profile": 96,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJ9OEFMKpeC",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DJ9OEFMKpeC/",
+      "position_on_profile": 97,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJ4D8IFKHiO",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DJ4D8IFKHiO/",
+      "position_on_profile": 98,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJobIdIKO_u",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DJobIdIKO_u/",
+      "position_on_profile": 99,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJl_vxVK6Md",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DJl_vxVK6Md/",
+      "position_on_profile": 100,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJOmMPbKv1l",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DJOmMPbKv1l/",
+      "position_on_profile": 101,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJHC6OcKa4c",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DJHC6OcKa4c/",
+      "position_on_profile": 102,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJCHhIyq9rh",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DJCHhIyq9rh/",
+      "position_on_profile": 103,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DI_o5DyqCbd",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DI_o5DyqCbd/",
+      "position_on_profile": 104,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DI_OjH5MjR_",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DI_OjH5MjR_/",
+      "position_on_profile": 105,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DI8NBW-KTfG",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DI8NBW-KTfG/",
+      "position_on_profile": 106,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DI5jO1-svut",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DI5jO1-svut/",
+      "position_on_profile": 107,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DI1KES9qVIA",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DI1KES9qVIA/",
+      "position_on_profile": 108,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DIym7CVKzAT",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DIym7CVKzAT/",
+      "position_on_profile": 109,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DIwGzEsJXSi",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DIwGzEsJXSi/",
+      "position_on_profile": 110,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DItVuQHJWkW",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DItVuQHJWkW/",
+      "position_on_profile": 111,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DIq0vm_pvXg",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DIq0vm_pvXg/",
+      "position_on_profile": 112,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DIoKjcxpZDC",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DIoKjcxpZDC/",
+      "position_on_profile": 113,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DIljkqIJ8NL",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DIljkqIJ8NL/",
+      "position_on_profile": 114,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DIgfPvuqvMW",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DIgfPvuqvMW/",
+      "position_on_profile": 115,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DITpiJWpVCf",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DITpiJWpVCf/",
+      "position_on_profile": 116,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DHyHruPKZ4L",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DHyHruPKZ4L/",
+      "position_on_profile": 117,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DHvqUg3p0EH",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DHvqUg3p0EH/",
+      "position_on_profile": 118,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DHtFd-6JJya",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DHtFd-6JJya/",
+      "position_on_profile": 119,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DHnutsFpnG9",
+      "reel_url": "https://www.instagram.com/Ishitaaa.10/reel/DHnutsFpnG9/",
+      "position_on_profile": 120,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    }
+  ],
+  "summary": {
+    "total_posts_found": 357,
+    "posts_indexed": 120
+  }
+}

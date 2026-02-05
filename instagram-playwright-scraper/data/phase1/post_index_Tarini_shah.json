@@ -1,0 +1,864 @@
+{
+  "schema_version": "1.0",
+  "scrape_phase": "post_index",
+  "creator": {
+    "creator_username": "Tarini_shah",
+    "profile_url": "https://www.instagram.com/Tarini_shah/",
+    "niche": "Beauty",
+    "followers_count_visible": "539K",
+    "verified": true
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-02-03T21:36:08.273Z",
+    "scraper_type": "playwright_ui_controlled",
+    "post_selection_strategy": "balanced_with_reel_fallback",
+    "max_posts_collected": 120,
+    "scroll_behavior": "manual_like_slow_scroll"
+  },
+  "posts_index": [
+    {
+      "post_id": "DUTAstFDM8P",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DUTAstFDM8P/",
+      "position_on_profile": 1,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUQUT1PAvsi",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DUQUT1PAvsi/",
+      "position_on_profile": 2,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUNhq5sAjOE",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DUNhq5sAjOE/",
+      "position_on_profile": 3,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUIofO-EQwl",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DUIofO-EQwl/",
+      "position_on_profile": 4,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUDaHSLgo3-",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DUDaHSLgo3-/",
+      "position_on_profile": 5,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUA6SKNk3kv",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DUA6SKNk3kv/",
+      "position_on_profile": 6,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT-kiyZgnLS",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DT-kiyZgnLS/",
+      "position_on_profile": 7,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTuC4vHAheS",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DTuC4vHAheS/",
+      "position_on_profile": 8,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT0P5VSgiwF",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DT0P5VSgiwF/",
+      "position_on_profile": 9,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTxUoPeDIhY",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DTxUoPeDIhY/",
+      "position_on_profile": 10,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTursmcghVn",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DTursmcghVn/",
+      "position_on_profile": 11,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTsUq29AvJp",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DTsUq29AvJp/",
+      "position_on_profile": 12,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTnAbVJgmeH",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DTnAbVJgmeH/",
+      "position_on_profile": 13,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTh4z8FAl9w",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DTh4z8FAl9w/",
+      "position_on_profile": 14,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTc0HKYAki2",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DTc0HKYAki2/",
+      "position_on_profile": 15,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTap5N4gjtw",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DTap5N4gjtw/",
+      "position_on_profile": 16,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTSdMp0Ar1l",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DTSdMp0Ar1l/",
+      "position_on_profile": 17,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTP7dcIkw5g",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DTP7dcIkw5g/",
+      "position_on_profile": 18,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTFl3cAAqOT",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DTFl3cAAqOT/",
+      "position_on_profile": 19,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS7El0xglHu",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DS7El0xglHu/",
+      "position_on_profile": 20,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS49IIxApG2",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DS49IIxApG2/",
+      "position_on_profile": 21,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS4BRnsAnj2",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DS4BRnsAnj2/",
+      "position_on_profile": 22,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSw9K_sk6CN",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DSw9K_sk6CN/",
+      "position_on_profile": 23,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSuXw_kEywd",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DSuXw_kEywd/",
+      "position_on_profile": 24,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSpit68gngc",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DSpit68gngc/",
+      "position_on_profile": 25,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSnDBmnk1Fm",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DSnDBmnk1Fm/",
+      "position_on_profile": 26,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSkWmSGAoHL",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DSkWmSGAoHL/",
+      "position_on_profile": 27,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSjXBi1gvTF",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DSjXBi1gvTF/",
+      "position_on_profile": 28,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSZQ2XdgpCQ",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DSZQ2XdgpCQ/",
+      "position_on_profile": 29,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSXPAP7AjpK",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DSXPAP7AjpK/",
+      "position_on_profile": 30,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSSEsbiApQB",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DSSEsbiApQB/",
+      "position_on_profile": 31,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSM23L8AtNp",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DSM23L8AtNp/",
+      "position_on_profile": 32,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSKYSFVgk4J",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DSKYSFVgk4J/",
+      "position_on_profile": 33,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSHx1hhApTJ",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DSHx1hhApTJ/",
+      "position_on_profile": 34,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSAFHC2k3vV",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DSAFHC2k3vV/",
+      "position_on_profile": 35,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR316engpXR",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DR316engpXR/",
+      "position_on_profile": 36,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR1zJLHAkfX",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DR1zJLHAkfX/",
+      "position_on_profile": 37,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRzkz2yguTs",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DRzkz2yguTs/",
+      "position_on_profile": 38,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRwoVNnAor7",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DRwoVNnAor7/",
+      "position_on_profile": 39,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRuCWj8AkS6",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DRuCWj8AkS6/",
+      "position_on_profile": 40,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CtbPEYqtc3c",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/CtbPEYqtc3c/",
+      "position_on_profile": 41,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUBPhoAAsr-",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DUBPhoAAsr-/",
+      "position_on_profile": 42,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTqEflIgrFx",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DTqEflIgrFx/",
+      "position_on_profile": 43,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTlA1acggDq",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DTlA1acggDq/",
+      "position_on_profile": 44,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTfxN-xAmXB",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DTfxN-xAmXB/",
+      "position_on_profile": 45,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTLOCsVgjlQ",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DTLOCsVgjlQ/",
+      "position_on_profile": 46,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTIFEgXAu6O",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DTIFEgXAu6O/",
+      "position_on_profile": 47,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTA6ccIgnas",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DTA6ccIgnas/",
+      "position_on_profile": 48,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSVIw8hAtsW",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DSVIw8hAtsW/",
+      "position_on_profile": 49,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSK38rPgrat",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DSK38rPgrat/",
+      "position_on_profile": 50,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRxDJoHAmQ8",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DRxDJoHAmQ8/",
+      "position_on_profile": 51,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ9l0O8ggQ5",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DQ9l0O8ggQ5/",
+      "position_on_profile": 52,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQzU1gsk2BK",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DQzU1gsk2BK/",
+      "position_on_profile": 53,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQn3yBqjZWe",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DQn3yBqjZWe/",
+      "position_on_profile": 54,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQE8ojDk6hV",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DQE8ojDk6hV/",
+      "position_on_profile": 55,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP1SgoUk6fx",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DP1SgoUk6fx/",
+      "position_on_profile": 56,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPeQfhgAroH",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DPeQfhgAroH/",
+      "position_on_profile": 57,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPDYZYVEbI-",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DPDYZYVEbI-/",
+      "position_on_profile": 58,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOtYaNik_hL",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DOtYaNik_hL/",
+      "position_on_profile": 59,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DORBFflkYIn",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DORBFflkYIn/",
+      "position_on_profile": 60,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOBld4IktgS",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DOBld4IktgS/",
+      "position_on_profile": 61,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DN8diqck38o",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DN8diqck38o/",
+      "position_on_profile": 62,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNtGxOsRDkV",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DNtGxOsRDkV/",
+      "position_on_profile": 63,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMu7ypszkEJ",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DMu7ypszkEJ/",
+      "position_on_profile": 64,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLVAir3zsF8",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DLVAir3zsF8/",
+      "position_on_profile": 65,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DK_iNmHRaUf",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DK_iNmHRaUf/",
+      "position_on_profile": 66,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DK4hof0tELG",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DK4hof0tELG/",
+      "position_on_profile": 67,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKZzneBT0AC",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DKZzneBT0AC/",
+      "position_on_profile": 68,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJ609g9tZEQ",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DJ609g9tZEQ/",
+      "position_on_profile": 69,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJUUh65T2Wo",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DJUUh65T2Wo/",
+      "position_on_profile": 70,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DG93y_ORYRA",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/DG93y_ORYRA/",
+      "position_on_profile": 71,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C9SRTuMtH8G",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/C9SRTuMtH8G/",
+      "position_on_profile": 72,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C4nqRejRU0h",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/C4nqRejRU0h/",
+      "position_on_profile": 73,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C3KC5YXPh6U",
+      "reel_url": "https://www.instagram.com/youtubeindia/p/C3KC5YXPh6U/",
+      "position_on_profile": 74,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C0CUpUitaiE",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/C0CUpUitaiE/",
+      "position_on_profile": 75,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CyxbAoXrPxJ",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/CyxbAoXrPxJ/",
+      "position_on_profile": 76,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "Cx0KO7eNlqY",
+      "reel_url": "https://www.instagram.com/tarini_shah/p/Cx0KO7eNlqY/",
+      "position_on_profile": 77,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRrdR2zgrWv",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DRrdR2zgrWv/",
+      "position_on_profile": 78,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRo5aOVjL33",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DRo5aOVjL33/",
+      "position_on_profile": 79,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRjvLRBAlhk",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DRjvLRBAlhk/",
+      "position_on_profile": 80,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRemwCLgjTj",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DRemwCLgjTj/",
+      "position_on_profile": 81,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRcpfBaAqW7",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DRcpfBaAqW7/",
+      "position_on_profile": 82,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRRyiW1AlTw",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DRRyiW1AlTw/",
+      "position_on_profile": 83,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRPgaeNAoGB",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DRPgaeNAoGB/",
+      "position_on_profile": 84,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRGxRUUAliE",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DRGxRUUAliE/",
+      "position_on_profile": 85,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRE2cZJgub4",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DRE2cZJgub4/",
+      "position_on_profile": 86,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRCPA6NAqii",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DRCPA6NAqii/",
+      "position_on_profile": 87,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ11Mxok19H",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DQ11Mxok19H/",
+      "position_on_profile": 88,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ01vi4kfl6",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DQ01vi4kfl6/",
+      "position_on_profile": 89,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQwPp3DAg3m",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DQwPp3DAg3m/",
+      "position_on_profile": 90,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQmFJ0ukSVE",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DQmFJ0ukSVE/",
+      "position_on_profile": 91,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQirnUajRkX",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DQirnUajRkX/",
+      "position_on_profile": 92,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQWtVXQkWuk",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DQWtVXQkWuk/",
+      "position_on_profile": 93,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQMrn9Ogmj0",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DQMrn9Ogmj0/",
+      "position_on_profile": 94,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQJ2pRpk5AH",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DQJ2pRpk5AH/",
+      "position_on_profile": 95,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQHCNUFjH6f",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DQHCNUFjH6f/",
+      "position_on_profile": 96,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQBiAjnEajf",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DQBiAjnEajf/",
+      "position_on_profile": 97,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP_vVjgEyvG",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DP_vVjgEyvG/",
+      "position_on_profile": 98,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP-ugegEelM",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DP-ugegEelM/",
+      "position_on_profile": 99,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP5bz5mkcTZ",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DP5bz5mkcTZ/",
+      "position_on_profile": 100,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP3oEcngvSo",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DP3oEcngvSo/",
+      "position_on_profile": 101,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP1NZceE_na",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DP1NZceE_na/",
+      "position_on_profile": 102,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPyghBKgq0e",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DPyghBKgq0e/",
+      "position_on_profile": 103,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPq437PEwTE",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DPq437PEwTE/",
+      "position_on_profile": 104,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPoH1_5AodV",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DPoH1_5AodV/",
+      "position_on_profile": 105,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPiR5LpjG7J",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DPiR5LpjG7J/",
+      "position_on_profile": 106,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPYMWlSEfFM",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DPYMWlSEfFM/",
+      "position_on_profile": 107,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPVzncdDJfc",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DPVzncdDJfc/",
+      "position_on_profile": 108,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPQ9dwvkw6S",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DPQ9dwvkw6S/",
+      "position_on_profile": 109,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPLfNxxE4w5",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DPLfNxxE4w5/",
+      "position_on_profile": 110,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPIq3hHglQ6",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DPIq3hHglQ6/",
+      "position_on_profile": 111,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPERTLUCVkI",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DPERTLUCVkI/",
+      "position_on_profile": 112,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPBsZ3DE6ta",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DPBsZ3DE6ta/",
+      "position_on_profile": 113,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO_Zb87k_V2",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DO_Zb87k_V2/",
+      "position_on_profile": 114,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO8xI-kExoZ",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DO8xI-kExoZ/",
+      "position_on_profile": 115,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO3hQyKAqSu",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DO3hQyKAqSu/",
+      "position_on_profile": 116,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOyMNn4E7ik",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DOyMNn4E7ik/",
+      "position_on_profile": 117,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOxWBWkjClP",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DOxWBWkjClP/",
+      "position_on_profile": 118,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOuyK0okQz4",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DOuyK0okQz4/",
+      "position_on_profile": 119,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOsz5SjE4wM",
+      "reel_url": "https://www.instagram.com/Tarini_shah/reel/DOsz5SjE4wM/",
+      "position_on_profile": 120,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    }
+  ],
+  "summary": {
+    "total_posts_found": 355,
+    "posts_indexed": 120
+  }
+}

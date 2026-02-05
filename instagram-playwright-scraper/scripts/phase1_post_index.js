@@ -6,7 +6,7 @@ const path = require('path');
    CONFIG
    ===================================================== */
 
-const CREATOR_USERNAME = 'Khushiiimalhotra';
+const CREATOR_USERNAME = 'dishaagarwalllll';
 const CREATOR_NICHE = 'Beauty'; // set manually
 
 const TARGET = {

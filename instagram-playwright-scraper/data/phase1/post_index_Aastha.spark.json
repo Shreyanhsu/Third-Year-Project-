@@ -1,0 +1,864 @@
+{
+  "schema_version": "1.0",
+  "scrape_phase": "post_index",
+  "creator": {
+    "creator_username": "Aastha.spark",
+    "profile_url": "https://www.instagram.com/Aastha.spark/",
+    "niche": "Beauty",
+    "followers_count_visible": "116K",
+    "verified": false
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-02-03T20:14:24.202Z",
+    "scraper_type": "playwright_ui_controlled",
+    "post_selection_strategy": "balanced_with_reel_fallback",
+    "max_posts_collected": 120,
+    "scroll_behavior": "manual_like_slow_scroll"
+  },
+  "posts_index": [
+    {
+      "post_id": "DUSyJljEUDv",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DUSyJljEUDv/",
+      "position_on_profile": 1,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUQJ3TWEXkq",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DUQJ3TWEXkq/",
+      "position_on_profile": 2,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUPhDM-kedC",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DUPhDM-kedC/",
+      "position_on_profile": 3,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUM1gzvEcZX",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DUM1gzvEcZX/",
+      "position_on_profile": 4,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUKTCujEcmF",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DUKTCujEcmF/",
+      "position_on_profile": 5,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUH3n52kZht",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DUH3n52kZht/",
+      "position_on_profile": 6,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUFHUbQEfiE",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DUFHUbQEfiE/",
+      "position_on_profile": 7,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUCieOdkVj0",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DUCieOdkVj0/",
+      "position_on_profile": 8,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUAuPBmEcWS",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DUAuPBmEcWS/",
+      "position_on_profile": 9,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT68CamEftL",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DT68CamEftL/",
+      "position_on_profile": 10,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT4R2cGEQj5",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DT4R2cGEQj5/",
+      "position_on_profile": 11,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT1uOJDkYT8",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DT1uOJDkYT8/",
+      "position_on_profile": 12,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTz2vbhkd27",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DTz2vbhkd27/",
+      "position_on_profile": 13,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTxSWHIkcNp",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DTxSWHIkcNp/",
+      "position_on_profile": 14,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTwlnIJkUke",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DTwlnIJkUke/",
+      "position_on_profile": 15,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTsYgdAkZF-",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DTsYgdAkZF-/",
+      "position_on_profile": 16,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTo2KcTEcUC",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DTo2KcTEcUC/",
+      "position_on_profile": 17,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTm9W_bkXr4",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DTm9W_bkXr4/",
+      "position_on_profile": 18,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTjwu70kRwM",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DTjwu70kRwM/",
+      "position_on_profile": 19,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DThLskREZeq",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DThLskREZeq/",
+      "position_on_profile": 20,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTcudC7EeY4",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DTcudC7EeY4/",
+      "position_on_profile": 21,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTb6QqeEbxk",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DTb6QqeEbxk/",
+      "position_on_profile": 22,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTVA24LkZmN",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DTVA24LkZmN/",
+      "position_on_profile": 23,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTUT1aJkSEU",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DTUT1aJkSEU/",
+      "position_on_profile": 24,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTPyWDQEYqT",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DTPyWDQEYqT/",
+      "position_on_profile": 25,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTIV3ocEQ52",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DTIV3ocEQ52/",
+      "position_on_profile": 26,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTID9H1kee4",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DTID9H1kee4/",
+      "position_on_profile": 27,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTAWVjnkYBo",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DTAWVjnkYBo/",
+      "position_on_profile": 28,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS_vyUqkeLB",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DS_vyUqkeLB/",
+      "position_on_profile": 29,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS6cFMKESSK",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DS6cFMKESSK/",
+      "position_on_profile": 30,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS2KHbXkZSk",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DS2KHbXkZSk/",
+      "position_on_profile": 31,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSw4_HZEYrU",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DSw4_HZEYrU/",
+      "position_on_profile": 32,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSpKpsIkRkI",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DSpKpsIkRkI/",
+      "position_on_profile": 33,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSkBhd2kZl2",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DSkBhd2kZl2/",
+      "position_on_profile": 34,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DScT0FhEecm",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DScT0FhEecm/",
+      "position_on_profile": 35,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSXREyKESju",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DSXREyKESju/",
+      "position_on_profile": 36,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSUjbetkesk",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DSUjbetkesk/",
+      "position_on_profile": 37,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSPbfvTkXar",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DSPbfvTkXar/",
+      "position_on_profile": 38,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSKQREDkR8N",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DSKQREDkR8N/",
+      "position_on_profile": 39,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSJoxPekSzz",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DSJoxPekSzz/",
+      "position_on_profile": 40,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSHu7NRkVJg",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DSHu7NRkVJg/",
+      "position_on_profile": 41,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSFH_tAEbwx",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DSFH_tAEbwx/",
+      "position_on_profile": 42,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSEb1NTEV0W",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DSEb1NTEV0W/",
+      "position_on_profile": 43,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSCirBMEYAD",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DSCirBMEYAD/",
+      "position_on_profile": 44,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSBzRWIEZ60",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DSBzRWIEZ60/",
+      "position_on_profile": 45,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR8o2h6Ec7M",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DR8o2h6Ec7M/",
+      "position_on_profile": 46,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR6zorOEdGs",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DR6zorOEdGs/",
+      "position_on_profile": 47,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR3e8BNEWvb",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DR3e8BNEWvb/",
+      "position_on_profile": 48,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR1wKCrEZPN",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DR1wKCrEZPN/",
+      "position_on_profile": 49,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR0-AEakfbF",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DR0-AEakfbF/",
+      "position_on_profile": 50,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRzFyPPEUNV",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DRzFyPPEUNV/",
+      "position_on_profile": 51,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRv60SPkVYq",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DRv60SPkVYq/",
+      "position_on_profile": 52,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRuEbDCDKE3",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DRuEbDCDKE3/",
+      "position_on_profile": 53,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRqrXVlkUVR",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DRqrXVlkUVR/",
+      "position_on_profile": 54,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRoDKN6gjLE",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DRoDKN6gjLE/",
+      "position_on_profile": 55,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRlcv9CEQ0O",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DRlcv9CEQ0O/",
+      "position_on_profile": 56,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRgYMZhkUcl",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DRgYMZhkUcl/",
+      "position_on_profile": 57,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRefYOiEWGO",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DRefYOiEWGO/",
+      "position_on_profile": 58,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRb7RZckZ_f",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DRb7RZckZ_f/",
+      "position_on_profile": 59,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRThcugEVRC",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DRThcugEVRC/",
+      "position_on_profile": 60,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRR0irsEfCq",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DRR0irsEfCq/",
+      "position_on_profile": 61,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRQ3UdKER8n",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DRQ3UdKER8n/",
+      "position_on_profile": 62,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRLxeTRjI6L",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DRLxeTRjI6L/",
+      "position_on_profile": 63,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRCLR5HEcTM",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DRCLR5HEcTM/",
+      "position_on_profile": 64,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRBefhmEfWM",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DRBefhmEfWM/",
+      "position_on_profile": 65,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ_ljAyEU39",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DQ_ljAyEU39/",
+      "position_on_profile": 66,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ5tBKOEehA",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DQ5tBKOEehA/",
+      "position_on_profile": 67,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQyutLBEVQ6",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DQyutLBEVQ6/",
+      "position_on_profile": 68,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQwGuG-Edbt",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DQwGuG-Edbt/",
+      "position_on_profile": 69,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQtk9CQESEo",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DQtk9CQESEo/",
+      "position_on_profile": 70,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQl2TwsEecI",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DQl2TwsEecI/",
+      "position_on_profile": 71,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQjQt7qEcTl",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DQjQt7qEcTl/",
+      "position_on_profile": 72,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQeLyHEkY9U",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DQeLyHEkY9U/",
+      "position_on_profile": 73,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQbgU0bkdNF",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DQbgU0bkdNF/",
+      "position_on_profile": 74,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQY9Ly-kUt2",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DQY9Ly-kUt2/",
+      "position_on_profile": 75,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQYNiUsEcFy",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DQYNiUsEcFy/",
+      "position_on_profile": 76,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQWa2_YkYey",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DQWa2_YkYey/",
+      "position_on_profile": 77,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQOsKlwkSY7",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DQOsKlwkSY7/",
+      "position_on_profile": 78,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQLZdg1iEvx",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DQLZdg1iEvx/",
+      "position_on_profile": 79,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQEWx5JkRTC",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DQEWx5JkRTC/",
+      "position_on_profile": 80,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP_zdalkZAP",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DP_zdalkZAP/",
+      "position_on_profile": 81,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP_RClZkSUc",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DP_RClZkSUc/",
+      "position_on_profile": 82,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP20UJPEWk2",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DP20UJPEWk2/",
+      "position_on_profile": 83,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP0OSPFEVHU",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DP0OSPFEVHU/",
+      "position_on_profile": 84,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPv9q97kT7T",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DPv9q97kT7T/",
+      "position_on_profile": 85,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPtNBceEfqc",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DPtNBceEfqc/",
+      "position_on_profile": 86,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPqnQhEkZ4N",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DPqnQhEkZ4N/",
+      "position_on_profile": 87,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPoCfPqkX-Q",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DPoCfPqkX-Q/",
+      "position_on_profile": 88,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPkvXOckTzI",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DPkvXOckTzI/",
+      "position_on_profile": 89,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPdv2SWEbaX",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DPdv2SWEbaX/",
+      "position_on_profile": 90,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPbLBUPEa2u",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DPbLBUPEa2u/",
+      "position_on_profile": 91,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPWDm1AkZJT",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DPWDm1AkZJT/",
+      "position_on_profile": 92,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPQ2peIkeul",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DPQ2peIkeul/",
+      "position_on_profile": 93,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPO3qgCEavj",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DPO3qgCEavj/",
+      "position_on_profile": 94,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPLAzvXiBqz",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DPLAzvXiBqz/",
+      "position_on_profile": 95,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPJHS97kScU",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DPJHS97kScU/",
+      "position_on_profile": 96,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPEAYiUkerC",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DPEAYiUkerC/",
+      "position_on_profile": 97,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPBbCF2kcN9",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DPBbCF2kcN9/",
+      "position_on_profile": 98,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO-GR9tEYFO",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DO-GR9tEYFO/",
+      "position_on_profile": 99,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO8RVnRkfVQ",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DO8RVnRkfVQ/",
+      "position_on_profile": 100,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO5rw47gBq1",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DO5rw47gBq1/",
+      "position_on_profile": 101,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO0iw0tkfjk",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DO0iw0tkfjk/",
+      "position_on_profile": 102,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOz1oqpEX42",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DOz1oqpEX42/",
+      "position_on_profile": 103,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOyA7_OEURy",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DOyA7_OEURy/",
+      "position_on_profile": 104,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOvYJ9TjCR4",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DOvYJ9TjCR4/",
+      "position_on_profile": 105,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOnubSekZ4u",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DOnubSekZ4u/",
+      "position_on_profile": 106,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOkXUDqkRrh",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DOkXUDqkRrh/",
+      "position_on_profile": 107,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOhxlgTEeME",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DOhxlgTEeME/",
+      "position_on_profile": 108,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOcrHmVgoZq",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DOcrHmVgoZq/",
+      "position_on_profile": 109,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOYO0N6DHhk",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DOYO0N6DHhk/",
+      "position_on_profile": 110,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOVodrykdbL",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DOVodrykdbL/",
+      "position_on_profile": 111,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOTEhEDkc6-",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DOTEhEDkc6-/",
+      "position_on_profile": 112,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOQfeE0EYd3",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DOQfeE0EYd3/",
+      "position_on_profile": 113,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DON7Oj5EfXP",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DON7Oj5EfXP/",
+      "position_on_profile": 114,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOLXBtekVnS",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DOLXBtekVnS/",
+      "position_on_profile": 115,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOKpaKVEVap",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DOKpaKVEVap/",
+      "position_on_profile": 116,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOIItQXkcIg",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DOIItQXkcIg/",
+      "position_on_profile": 117,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOAdWcqkQMF",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DOAdWcqkQMF/",
+      "position_on_profile": 118,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DN-gbofEe9J",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DN-gbofEe9J/",
+      "position_on_profile": 119,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DN5T8DLETU0",
+      "reel_url": "https://www.instagram.com/Aastha.spark/reel/DN5T8DLETU0/",
+      "position_on_profile": 120,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    }
+  ],
+  "summary": {
+    "total_posts_found": 204,
+    "posts_indexed": 120
+  }
+}

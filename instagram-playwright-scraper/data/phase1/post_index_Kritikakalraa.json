@@ -1,0 +1,864 @@
+{
+  "schema_version": "1.0",
+  "scrape_phase": "post_index",
+  "creator": {
+    "creator_username": "Kritikakalraa",
+    "profile_url": "https://www.instagram.com/Kritikakalraa/",
+    "niche": "Beauty",
+    "followers_count_visible": "72.9K",
+    "verified": false
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-02-04T04:10:05.423Z",
+    "scraper_type": "playwright_ui_controlled",
+    "post_selection_strategy": "balanced_with_reel_fallback",
+    "max_posts_collected": 120,
+    "scroll_behavior": "manual_like_slow_scroll"
+  },
+  "posts_index": [
+    {
+      "post_id": "DLaD95cJ8lG",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DLaD95cJ8lG/",
+      "position_on_profile": 1,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C8PTcIeSpKu",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/C8PTcIeSpKu/",
+      "position_on_profile": 2,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C5bJ8WcJqtV",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/C5bJ8WcJqtV/",
+      "position_on_profile": 3,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUQRv_GCRSs",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DUQRv_GCRSs/",
+      "position_on_profile": 4,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DULRRHpCd-e",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DULRRHpCd-e/",
+      "position_on_profile": 5,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUIq6hAiRGA",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DUIq6hAiRGA/",
+      "position_on_profile": 6,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUDbOygCTVO",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DUDbOygCTVO/",
+      "position_on_profile": 7,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT-aM25CVA4",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DT-aM25CVA4/",
+      "position_on_profile": 8,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT2pF3pCU0X",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DT2pF3pCU0X/",
+      "position_on_profile": 9,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTxbwGpkvct",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DTxbwGpkvct/",
+      "position_on_profile": 10,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTu_zYfiUer",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DTu_zYfiUer/",
+      "position_on_profile": 11,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTnPnikie-_",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DTnPnikie-_/",
+      "position_on_profile": 12,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTaLAYqiVl3",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DTaLAYqiVl3/",
+      "position_on_profile": 13,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTVLwzziW5U",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DTVLwzziW5U/",
+      "position_on_profile": 14,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTGhSjjk6Nx",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DTGhSjjk6Nx/",
+      "position_on_profile": 15,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTF5S4JkkY8",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DTF5S4JkkY8/",
+      "position_on_profile": 16,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTAucKQiSKa",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DTAucKQiSKa/",
+      "position_on_profile": 17,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS2LKHCicBw",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DS2LKHCicBw/",
+      "position_on_profile": 18,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSz3gG6icOV",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DSz3gG6icOV/",
+      "position_on_profile": 19,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSpjtlBCcX6",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DSpjtlBCcX6/",
+      "position_on_profile": 20,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSkGwM7iXdN",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DSkGwM7iXdN/",
+      "position_on_profile": 21,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSh29gKCany",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DSh29gKCany/",
+      "position_on_profile": 22,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DScsDCqiSLs",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DScsDCqiSLs/",
+      "position_on_profile": 23,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSXh2pjiTAn",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DSXh2pjiTAn/",
+      "position_on_profile": 24,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSSZ5cOCZkH",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DSSZ5cOCZkH/",
+      "position_on_profile": 25,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSPwAQbCUFS",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DSPwAQbCUFS/",
+      "position_on_profile": 26,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSKXmStCasI",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DSKXmStCasI/",
+      "position_on_profile": 27,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSHyuJPCWZs",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DSHyuJPCWZs/",
+      "position_on_profile": 28,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSCv3DiCbt2",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DSCv3DiCbt2/",
+      "position_on_profile": 29,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR9t9MbCUjo",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DR9t9MbCUjo/",
+      "position_on_profile": 30,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRzjzFbjETL",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DRzjzFbjETL/",
+      "position_on_profile": 31,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRwqDccgSey",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DRwqDccgSey/",
+      "position_on_profile": 32,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRrlsPVj_le",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DRrlsPVj_le/",
+      "position_on_profile": 33,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRo7iV_CRW6",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DRo7iV_CRW6/",
+      "position_on_profile": 34,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRmxIHtiWtn",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DRmxIHtiWtn/",
+      "position_on_profile": 35,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRhVuV9CajX",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DRhVuV9CajX/",
+      "position_on_profile": 36,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRcIXUXid2j",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DRcIXUXid2j/",
+      "position_on_profile": 37,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRZFUZTCZ8R",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DRZFUZTCZ8R/",
+      "position_on_profile": 38,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRW_8MMCd5j",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DRW_8MMCd5j/",
+      "position_on_profile": 39,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRUqgORiTwY",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DRUqgORiTwY/",
+      "position_on_profile": 40,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTpsgDJCalj",
+      "reel_url": "https://www.instagram.com/kritikakalraa/p/DTpsgDJCalj/",
+      "position_on_profile": 41,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSmp4CZCYvV",
+      "reel_url": "https://www.instagram.com/kritikakalraa/p/DSmp4CZCYvV/",
+      "position_on_profile": 42,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRuLOv2CWJR",
+      "reel_url": "https://www.instagram.com/kritikakalraa/p/DRuLOv2CWJR/",
+      "position_on_profile": 43,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DReyeElibRl",
+      "reel_url": "https://www.instagram.com/kritikakalraa/p/DReyeElibRl/",
+      "position_on_profile": 44,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP-oSdUCQW4",
+      "reel_url": "https://www.instagram.com/kritikakalraa/p/DP-oSdUCQW4/",
+      "position_on_profile": 45,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPOo1wMiUo9",
+      "reel_url": "https://www.instagram.com/kritikakalraa/p/DPOo1wMiUo9/",
+      "position_on_profile": 46,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOnLC9MCZUx",
+      "reel_url": "https://www.instagram.com/kritikakalraa/p/DOnLC9MCZUx/",
+      "position_on_profile": 47,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRSX4bRErhr",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DRSX4bRErhr/",
+      "position_on_profile": 48,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRM2RZ0CWKT",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DRM2RZ0CWKT/",
+      "position_on_profile": 49,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRHnccXiQ-F",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DRHnccXiQ-F/",
+      "position_on_profile": 50,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRCToxxgb41",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DRCToxxgb41/",
+      "position_on_profile": 51,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ9SIYsiWu6",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DQ9SIYsiWu6/",
+      "position_on_profile": 52,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ1mRfKCXnd",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DQ1mRfKCXnd/",
+      "position_on_profile": 53,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQw2ogyksr0",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DQw2ogyksr0/",
+      "position_on_profile": 54,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQtlq-qCTSp",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DQtlq-qCTSp/",
+      "position_on_profile": 55,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQorjMrCVcB",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DQorjMrCVcB/",
+      "position_on_profile": 56,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQmAFOrCcZg",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DQmAFOrCcZg/",
+      "position_on_profile": 57,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQeZmqqCaho",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DQeZmqqCaho/",
+      "position_on_profile": 58,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQZPl5CD6qa",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DQZPl5CD6qa/",
+      "position_on_profile": 59,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQWtpoRCSvE",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DQWtpoRCSvE/",
+      "position_on_profile": 60,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQUFsoVCZ1Y",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DQUFsoVCZ1Y/",
+      "position_on_profile": 61,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQRbaSuCa2h",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DQRbaSuCa2h/",
+      "position_on_profile": 62,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQJ1Q3lCYd2",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DQJ1Q3lCYd2/",
+      "position_on_profile": 63,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP_f-WPCeev",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DP_f-WPCeev/",
+      "position_on_profile": 64,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP8hyopCV_l",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DP8hyopCV_l/",
+      "position_on_profile": 65,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP6kQUPiX9f",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DP6kQUPiX9f/",
+      "position_on_profile": 66,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP3zHFIiZGt",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DP3zHFIiZGt/",
+      "position_on_profile": 67,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPynVL7iSlv",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DPynVL7iSlv/",
+      "position_on_profile": 68,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPth1EjiT7U",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DPth1EjiT7U/",
+      "position_on_profile": 69,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPq3gcHCU9d",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DPq3gcHCU9d/",
+      "position_on_profile": 70,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPlzcOSCWa4",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DPlzcOSCWa4/",
+      "position_on_profile": 71,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPeG84SCLOM",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DPeG84SCLOM/",
+      "position_on_profile": 72,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPWYc3kCQ9O",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DPWYc3kCQ9O/",
+      "position_on_profile": 73,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPL9VStCbXX",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DPL9VStCbXX/",
+      "position_on_profile": 74,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO8qCRziU0e",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DO8qCRziU0e/",
+      "position_on_profile": 75,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO594j6id6e",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DO594j6id6e/",
+      "position_on_profile": 76,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO04r-biR0N",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DO04r-biR0N/",
+      "position_on_profile": 77,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOyTIb7icCD",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DOyTIb7icCD/",
+      "position_on_profile": 78,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOtGxAMCQkL",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DOtGxAMCQkL/",
+      "position_on_profile": 79,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOn1kXDiQyt",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DOn1kXDiQyt/",
+      "position_on_profile": 80,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOlanHriYQH",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DOlanHriYQH/",
+      "position_on_profile": 81,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOYk5fGia58",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DOYk5fGia58/",
+      "position_on_profile": 82,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOWBLMLiSYo",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DOWBLMLiSYo/",
+      "position_on_profile": 83,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOQ6cfECOQ5",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DOQ6cfECOQ5/",
+      "position_on_profile": 84,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOOPLNFCaAF",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DOOPLNFCaAF/",
+      "position_on_profile": 85,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOLVBWOE88F",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DOLVBWOE88F/",
+      "position_on_profile": 86,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOGoa1qiWs2",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DOGoa1qiWs2/",
+      "position_on_profile": 87,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOD8PKMCV5g",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DOD8PKMCV5g/",
+      "position_on_profile": 88,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DN_Cs2miYct",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DN_Cs2miYct/",
+      "position_on_profile": 89,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DN8L-HICcMI",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DN8L-HICcMI/",
+      "position_on_profile": 90,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DN257hUUh7W",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DN257hUUh7W/",
+      "position_on_profile": 91,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNqPMebp7UU",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DNqPMebp7UU/",
+      "position_on_profile": 92,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNk-oxrpivr",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DNk-oxrpivr/",
+      "position_on_profile": 93,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNiZe1OpEJ0",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DNiZe1OpEJ0/",
+      "position_on_profile": 94,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNdZPYlJbEV",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DNdZPYlJbEV/",
+      "position_on_profile": 95,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNYE7GdJjyI",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DNYE7GdJjyI/",
+      "position_on_profile": 96,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNTCqINJDGs",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DNTCqINJDGs/",
+      "position_on_profile": 97,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNN4OgupSHf",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DNN4OgupSHf/",
+      "position_on_profile": 98,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNLMFWmpZ5L",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DNLMFWmpZ5L/",
+      "position_on_profile": 99,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNGIRvAJCHT",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DNGIRvAJCHT/",
+      "position_on_profile": 100,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNDhqoCJCn8",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DNDhqoCJCn8/",
+      "position_on_profile": 101,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DM5R6_aJ8JK",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DM5R6_aJ8JK/",
+      "position_on_profile": 102,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DM0OSWFJVN5",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DM0OSWFJVN5/",
+      "position_on_profile": 103,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMu7rA2InvD",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DMu7rA2InvD/",
+      "position_on_profile": 104,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMsZfmFp4JV",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DMsZfmFp4JV/",
+      "position_on_profile": 105,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMnTVV0JJ7I",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DMnTVV0JJ7I/",
+      "position_on_profile": 106,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMiFqugpV5I",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DMiFqugpV5I/",
+      "position_on_profile": 107,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMc7sbmJomV",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DMc7sbmJomV/",
+      "position_on_profile": 108,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMX31pLJMHE",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DMX31pLJMHE/",
+      "position_on_profile": 109,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMSm7CqJvxa",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DMSm7CqJvxa/",
+      "position_on_profile": 110,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMK4AAcpyp6",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DMK4AAcpyp6/",
+      "position_on_profile": 111,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMIJF2vpi0F",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DMIJF2vpi0F/",
+      "position_on_profile": 112,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMDJjLmJFK8",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DMDJjLmJFK8/",
+      "position_on_profile": 113,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DL7qjAwJpa6",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DL7qjAwJpa6/",
+      "position_on_profile": 114,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DL65nIghmtI",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DL65nIghmtI/",
+      "position_on_profile": 115,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DL2bIlzJyMF",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DL2bIlzJyMF/",
+      "position_on_profile": 116,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLsJd9ZplKZ",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DLsJd9ZplKZ/",
+      "position_on_profile": 117,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLpgY12pbDZ",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DLpgY12pbDZ/",
+      "position_on_profile": 118,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLkWhlfpNFh",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DLkWhlfpNFh/",
+      "position_on_profile": 119,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLfLkDfp5uK",
+      "reel_url": "https://www.instagram.com/Kritikakalraa/reel/DLfLkDfp5uK/",
+      "position_on_profile": 120,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    }
+  ],
+  "summary": {
+    "total_posts_found": 211,
+    "posts_indexed": 120
+  }
+}
