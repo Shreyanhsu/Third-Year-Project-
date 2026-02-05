@@ -1,0 +1,864 @@
+{
+  "schema_version": "1.0",
+  "scrape_phase": "post_index",
+  "creator": {
+    "creator_username": "thatsheengirl",
+    "profile_url": "https://www.instagram.com/thatsheengirl/",
+    "niche": "Beauty",
+    "followers_count_visible": "238K",
+    "verified": false
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-02-04T03:56:44.609Z",
+    "scraper_type": "playwright_ui_controlled",
+    "post_selection_strategy": "balanced_with_reel_fallback",
+    "max_posts_collected": 120,
+    "scroll_behavior": "manual_like_slow_scroll"
+  },
+  "posts_index": [
+    {
+      "post_id": "DE9QaCwqsV7",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DE9QaCwqsV7/",
+      "position_on_profile": 1,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DBv5VV0qv8G",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DBv5VV0qv8G/",
+      "position_on_profile": 2,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DDMjz2PKphC",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DDMjz2PKphC/",
+      "position_on_profile": 3,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUPwbjuEcRi",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DUPwbjuEcRi/",
+      "position_on_profile": 4,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUI0QnGj8oL",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DUI0QnGj8oL/",
+      "position_on_profile": 5,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUH9u3_ESHB",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DUH9u3_ESHB/",
+      "position_on_profile": 6,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUC0vyGkTcI",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DUC0vyGkTcI/",
+      "position_on_profile": 7,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT5YFMqj0ED",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DT5YFMqj0ED/",
+      "position_on_profile": 8,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT2uYYYCp2e",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DT2uYYYCp2e/",
+      "position_on_profile": 9,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT0DDooD7T1",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DT0DDooD7T1/",
+      "position_on_profile": 10,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTu4Xk8jzew",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DTu4Xk8jzew/",
+      "position_on_profile": 11,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTqKLkoDxy0",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DTqKLkoDxy0/",
+      "position_on_profile": 12,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTmiC3sEcyF",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DTmiC3sEcyF/",
+      "position_on_profile": 13,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTkoUR1il-v",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DTkoUR1il-v/",
+      "position_on_profile": 14,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTey8MHkc6M",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DTey8MHkc6M/",
+      "position_on_profile": 15,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTdJJhqD7od",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DTdJJhqD7od/",
+      "position_on_profile": 16,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTad8Ofj6B6",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DTad8Ofj6B6/",
+      "position_on_profile": 17,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTXTTrHEUOs",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DTXTTrHEUOs/",
+      "position_on_profile": 18,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTSB8yakTAw",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DTSB8yakTAw/",
+      "position_on_profile": 19,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTIVbj4D9Ih",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DTIVbj4D9Ih/",
+      "position_on_profile": 20,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTDIho4j3I0",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DTDIho4j3I0/",
+      "position_on_profile": 21,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTArZz9j75E",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DTArZz9j75E/",
+      "position_on_profile": 22,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS9XybnEe3y",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DS9XybnEe3y/",
+      "position_on_profile": 23,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS6lCuoClYW",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DS6lCuoClYW/",
+      "position_on_profile": 24,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSzbAZOCqyt",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DSzbAZOCqyt/",
+      "position_on_profile": 25,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSt-0h5EaS7",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DSt-0h5EaS7/",
+      "position_on_profile": 26,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSpvGsKD0WK",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DSpvGsKD0WK/",
+      "position_on_profile": 27,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSozVzDkfp1",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DSozVzDkfp1/",
+      "position_on_profile": 28,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSnHWncD163",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DSnHWncD163/",
+      "position_on_profile": 29,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSkRQTKjzra",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DSkRQTKjzra/",
+      "position_on_profile": 30,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DShrS67j2eX",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DShrS67j2eX/",
+      "position_on_profile": 31,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSZ9btUD0v4",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DSZ9btUD0v4/",
+      "position_on_profile": 32,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSWuTsVETlT",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DSWuTsVETlT/",
+      "position_on_profile": 33,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSQC3VID3YC",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DSQC3VID3YC/",
+      "position_on_profile": 34,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSNTYEviiI1",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DSNTYEviiI1/",
+      "position_on_profile": 35,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSJzdLAkT29",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DSJzdLAkT29/",
+      "position_on_profile": 36,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSEuw--irY9",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DSEuw--irY9/",
+      "position_on_profile": 37,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSCHkBqkV1L",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DSCHkBqkV1L/",
+      "position_on_profile": 38,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSApubUkm-8",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DSApubUkm-8/",
+      "position_on_profile": 39,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR_lPtGCrFG",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DR_lPtGCrFG/",
+      "position_on_profile": 40,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CgM7nn5KPcZ",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/CgM7nn5KPcZ/",
+      "position_on_profile": 41,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUNSh7YEXTf",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DUNSh7YEXTf/",
+      "position_on_profile": 42,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUBAl8uigI7",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DUBAl8uigI7/",
+      "position_on_profile": 43,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT4W2B7ihPQ",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DT4W2B7ihPQ/",
+      "position_on_profile": 44,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTiAK9winc1",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DTiAK9winc1/",
+      "position_on_profile": 45,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTK6qoFDxYC",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DTK6qoFDxYC/",
+      "position_on_profile": 46,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTCh19iEbIR",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DTCh19iEbIR/",
+      "position_on_profile": 47,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS92ibgCu9u",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DS92ibgCu9u/",
+      "position_on_profile": 48,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSzHm-lisz1",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DSzHm-lisz1/",
+      "position_on_profile": 49,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSueEqtisHC",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DSueEqtisHC/",
+      "position_on_profile": 50,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSRvJXZkXzu",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DSRvJXZkXzu/",
+      "position_on_profile": 51,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRl0ZHWkWfX",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DRl0ZHWkWfX/",
+      "position_on_profile": 52,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRcUUM7D89v",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DRcUUM7D89v/",
+      "position_on_profile": 53,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ3UbAlkZgO",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DQ3UbAlkZgO/",
+      "position_on_profile": 54,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQQyM8nEffC",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DQQyM8nEffC/",
+      "position_on_profile": 55,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQCelsQD1-N",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DQCelsQD1-N/",
+      "position_on_profile": 56,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP31Jxwin9F",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DP31Jxwin9F/",
+      "position_on_profile": 57,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPove8jj--k",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DPove8jj--k/",
+      "position_on_profile": 58,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOP1sBpirqm",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DOP1sBpirqm/",
+      "position_on_profile": 59,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNIdYt3J8A0",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DNIdYt3J8A0/",
+      "position_on_profile": 60,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMcS4vup6OY",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DMcS4vup6OY/",
+      "position_on_profile": 61,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DL2hrm9KQyo",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DL2hrm9KQyo/",
+      "position_on_profile": 62,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLedBq1p5my",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DLedBq1p5my/",
+      "position_on_profile": 63,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLFPFZaJLvJ",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DLFPFZaJLvJ/",
+      "position_on_profile": 64,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLAJH7zp3TP",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DLAJH7zp3TP/",
+      "position_on_profile": 65,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DK7UJ6iJ6q2",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DK7UJ6iJ6q2/",
+      "position_on_profile": 66,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DK2MUOwJHLt",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DK2MUOwJHLt/",
+      "position_on_profile": 67,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKuoH0LT9fh",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DKuoH0LT9fh/",
+      "position_on_profile": 68,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKpBOSoJ-_1",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DKpBOSoJ-_1/",
+      "position_on_profile": 69,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKeJ_ovqZFo",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DKeJ_ovqZFo/",
+      "position_on_profile": 70,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKXdZAMqxZD",
+      "reel_url": "https://www.instagram.com/thatsheengirl/p/DKXdZAMqxZD/",
+      "position_on_profile": 71,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR7LhhbjzW1",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DR7LhhbjzW1/",
+      "position_on_profile": 72,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR437ZWjzpv",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DR437ZWjzpv/",
+      "position_on_profile": 73,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR2DlbDj4pE",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DR2DlbDj4pE/",
+      "position_on_profile": 74,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRuKmJ-j7ne",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DRuKmJ-j7ne/",
+      "position_on_profile": 75,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRY9xA4EdNk",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DRY9xA4EdNk/",
+      "position_on_profile": 76,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRpLW3GD-GU",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DRpLW3GD-GU/",
+      "position_on_profile": 77,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRmugGQj2OH",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DRmugGQj2OH/",
+      "position_on_profile": 78,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRhNohcD3mn",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DRhNohcD3mn/",
+      "position_on_profile": 79,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRgvJiqEf9i",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DRgvJiqEf9i/",
+      "position_on_profile": 80,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRZ-XTDD7r9",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DRZ-XTDD7r9/",
+      "position_on_profile": 81,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRZoqnzD4f9",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DRZoqnzD4f9/",
+      "position_on_profile": 82,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRW4pMvj-iX",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DRW4pMvj-iX/",
+      "position_on_profile": 83,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRUTBe5CjRI",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DRUTBe5CjRI/",
+      "position_on_profile": 84,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRSqzqrk9PS",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DRSqzqrk9PS/",
+      "position_on_profile": 85,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRR4wSkDyn_",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DRR4wSkDyn_/",
+      "position_on_profile": 86,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRKdhyrEv9Q",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DRKdhyrEv9Q/",
+      "position_on_profile": 87,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRHS4vykXY8",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DRHS4vykXY8/",
+      "position_on_profile": 88,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DREM1c6kSYM",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DREM1c6kSYM/",
+      "position_on_profile": 89,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRCTn1nD2GN",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DRCTn1nD2GN/",
+      "position_on_profile": 90,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ_x0W9imCw",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DQ_x0W9imCw/",
+      "position_on_profile": 91,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ4Ul-ZD4xh",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DQ4Ul-ZD4xh/",
+      "position_on_profile": 92,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQwmP50D1i5",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DQwmP50D1i5/",
+      "position_on_profile": 93,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQtwcq2j9D0",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DQtwcq2j9D0/",
+      "position_on_profile": 94,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQmbgtlivQT",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DQmbgtlivQT/",
+      "position_on_profile": 95,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQem99HCn8o",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DQem99HCn8o/",
+      "position_on_profile": 96,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQcEhp_j_sY",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DQcEhp_j_sY/",
+      "position_on_profile": 97,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQZKD6gEh4g",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DQZKD6gEh4g/",
+      "position_on_profile": 98,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQV8CbmkUjV",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DQV8CbmkUjV/",
+      "position_on_profile": 99,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQT8SHzivS3",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DQT8SHzivS3/",
+      "position_on_profile": 100,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQHRjFKD1f8",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DQHRjFKD1f8/",
+      "position_on_profile": 101,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQELvs_kSbm",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DQELvs_kSbm/",
+      "position_on_profile": 102,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQClFH6EuRI",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DQClFH6EuRI/",
+      "position_on_profile": 103,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP_tQItEa2w",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DP_tQItEa2w/",
+      "position_on_profile": 104,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP9LwJVkeUh",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DP9LwJVkeUh/",
+      "position_on_profile": 105,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP6OAdKjxaR",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DP6OAdKjxaR/",
+      "position_on_profile": 106,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP2-06KkQni",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DP2-06KkQni/",
+      "position_on_profile": 107,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP1G5a2j_RS",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DP1G5a2j_RS/",
+      "position_on_profile": 108,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPv6MCwj6vx",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DPv6MCwj6vx/",
+      "position_on_profile": 109,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPtZ-ttjx9F",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DPtZ-ttjx9F/",
+      "position_on_profile": 110,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPszkDqEZIq",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DPszkDqEZIq/",
+      "position_on_profile": 111,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPoicpjjySz",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DPoicpjjySz/",
+      "position_on_profile": 112,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPn2Jy0kQY7",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DPn2Jy0kQY7/",
+      "position_on_profile": 113,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPnYP5JkcSI",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DPnYP5JkcSI/",
+      "position_on_profile": 114,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPk8TFfEYD9",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DPk8TFfEYD9/",
+      "position_on_profile": 115,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPjHpzDD3GR",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DPjHpzDD3GR/",
+      "position_on_profile": 116,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPg0ngZj8e-",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DPg0ngZj8e-/",
+      "position_on_profile": 117,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPd9G-ij9VC",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DPd9G-ij9VC/",
+      "position_on_profile": 118,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPbr3JSDxq_",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DPbr3JSDxq_/",
+      "position_on_profile": 119,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPYxxq0D5cJ",
+      "reel_url": "https://www.instagram.com/thatsheengirl/reel/DPYxxq0D5cJ/",
+      "position_on_profile": 120,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    }
+  ],
+  "summary": {
+    "total_posts_found": 247,
+    "posts_indexed": 120
+  }
+}

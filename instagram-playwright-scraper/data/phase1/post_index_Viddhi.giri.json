@@ -1,0 +1,493 @@
+{
+  "schema_version": "1.0",
+  "scrape_phase": "post_index",
+  "creator": {
+    "creator_username": "Viddhi.giri",
+    "profile_url": "https://www.instagram.com/Viddhi.giri/",
+    "niche": "Beauty",
+    "followers_count_visible": "unknown",
+    "verified": true
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-02-05T09:40:29.193Z",
+    "scraper_type": "playwright_ui_controlled",
+    "post_selection_strategy": "balanced_with_reel_fallback",
+    "max_posts_collected": 67,
+    "scroll_behavior": "manual_like_slow_scroll"
+  },
+  "posts_index": [
+    {
+      "post_id": "DIi8txvIMdW",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DIi8txvIMdW/",
+      "position_on_profile": 1,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DH6EjKssHdW",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DH6EjKssHdW/",
+      "position_on_profile": 2,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUV8A7kDJ40",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DUV8A7kDJ40/",
+      "position_on_profile": 3,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUQbbH0iE9S",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DUQbbH0iE9S/",
+      "position_on_profile": 4,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUK18lDE4Ti",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DUK18lDE4Ti/",
+      "position_on_profile": 5,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT-I8mcCBrf",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DT-I8mcCBrf/",
+      "position_on_profile": 6,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTxxGLvDFTr",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DTxxGLvDFTr/",
+      "position_on_profile": 7,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTm7_VkCHzS",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DTm7_VkCHzS/",
+      "position_on_profile": 8,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTkQyqwkxDC",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DTkQyqwkxDC/",
+      "position_on_profile": 9,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTflvyADKov",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DTflvyADKov/",
+      "position_on_profile": 10,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTc8HxuCPgD",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DTc8HxuCPgD/",
+      "position_on_profile": 11,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTZ2vQVkwcN",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DTZ2vQVkwcN/",
+      "position_on_profile": 12,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTVVZGmDMgD",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DTVVZGmDMgD/",
+      "position_on_profile": 13,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTQKkXFE5UQ",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DTQKkXFE5UQ/",
+      "position_on_profile": 14,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS4mFN_jGZi",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DS4mFN_jGZi/",
+      "position_on_profile": 15,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS2S0YNjJag",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DS2S0YNjJag/",
+      "position_on_profile": 16,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSz9r2iDMbl",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DSz9r2iDMbl/",
+      "position_on_profile": 17,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSue2qdjJ88",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DSue2qdjJ88/",
+      "position_on_profile": 18,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSsH6VMjOAH",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DSsH6VMjOAH/",
+      "position_on_profile": 19,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSZkZhIjDdg",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DSZkZhIjDdg/",
+      "position_on_profile": 20,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSUo1nxDJwu",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DSUo1nxDJwu/",
+      "position_on_profile": 21,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSR6nByDLuB",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DSR6nByDLuB/",
+      "position_on_profile": 22,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSNCV7rk_1y",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DSNCV7rk_1y/",
+      "position_on_profile": 23,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSKkaB7gZqc",
+      "reel_url": "https://www.instagram.com/Viddhi.giri/reel/DSKkaB7gZqc/",
+      "position_on_profile": 24,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUSkA3ZFNiA",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DUSkA3ZFNiA/",
+      "position_on_profile": 25,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUNB7G8kxT0",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DUNB7G8kxT0/",
+      "position_on_profile": 26,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT8JkXWk3kn",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DT8JkXWk3kn/",
+      "position_on_profile": 27,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT4hEr5DOqc",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DT4hEr5DOqc/",
+      "position_on_profile": 28,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSpT8TiFJrY",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DSpT8TiFJrY/",
+      "position_on_profile": 29,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRRkiaYk9xb",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DRRkiaYk9xb/",
+      "position_on_profile": 30,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ8tg5vkxKA",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DQ8tg5vkxKA/",
+      "position_on_profile": 31,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQi6OeMjAq-",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DQi6OeMjAq-/",
+      "position_on_profile": 32,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQPQe5cDPn-",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DQPQe5cDPn-/",
+      "position_on_profile": 33,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPtxXSjEyYL",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DPtxXSjEyYL/",
+      "position_on_profile": 34,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO-lW63k67W",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DO-lW63k67W/",
+      "position_on_profile": 35,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO3W6nZkwCp",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DO3W6nZkwCp/",
+      "position_on_profile": 36,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOyP4w8k-F4",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DOyP4w8k-F4/",
+      "position_on_profile": 37,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOq_jNaDFLG",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DOq_jNaDFLG/",
+      "position_on_profile": 38,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOacTJTk2_r",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DOacTJTk2_r/",
+      "position_on_profile": 39,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOVvLpQk6pB",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DOVvLpQk6pB/",
+      "position_on_profile": 40,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNfH8ZHz-MH",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DNfH8ZHz-MH/",
+      "position_on_profile": 41,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNLLCg0s6Ud",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DNLLCg0s6Ud/",
+      "position_on_profile": 42,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMhngjWtStN",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DMhngjWtStN/",
+      "position_on_profile": 43,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMfOX54Mt3Z",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DMfOX54Mt3Z/",
+      "position_on_profile": 44,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DL9Gmmeo62V",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DL9Gmmeo62V/",
+      "position_on_profile": 45,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLkWQLKIZbC",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DLkWQLKIZbC/",
+      "position_on_profile": 46,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLRtxncsw6x",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DLRtxncsw6x/",
+      "position_on_profile": 47,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLMlphhMssL",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DLMlphhMssL/",
+      "position_on_profile": 48,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKo0KBATJ6n",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DKo0KBATJ6n/",
+      "position_on_profile": 49,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJ6HUVtMumJ",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DJ6HUVtMumJ/",
+      "position_on_profile": 50,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJoccH0skRR",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DJoccH0skRR/",
+      "position_on_profile": 51,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DI-97-Tq9U4",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DI-97-Tq9U4/",
+      "position_on_profile": 52,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DI8T3nvMXHT",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DI8T3nvMXHT/",
+      "position_on_profile": 53,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DIoKfXSsSle",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DIoKfXSsSle/",
+      "position_on_profile": 54,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DHa9W9IIswD",
+      "reel_url": "https://www.instagram.com/lutopiamagazine/p/DHa9W9IIswD/",
+      "position_on_profile": 55,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DG-qdgfslGl",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/DG-qdgfslGl/",
+      "position_on_profile": 56,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C4mxg_-JNy8",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/C4mxg_-JNy8/",
+      "position_on_profile": 57,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C3pyTYLpj1D",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/C3pyTYLpj1D/",
+      "position_on_profile": 58,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C2egEm8pxj9",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/C2egEm8pxj9/",
+      "position_on_profile": 59,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C0irQcFpOP7",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/C0irQcFpOP7/",
+      "position_on_profile": 60,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "Cww4IsXpmeV",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/Cww4IsXpmeV/",
+      "position_on_profile": 61,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CweboTlJwnZ",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/CweboTlJwnZ/",
+      "position_on_profile": 62,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CwM8N1MRN2J",
+      "reel_url": "https://www.instagram.com/missdivaorg/p/CwM8N1MRN2J/",
+      "position_on_profile": 63,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CwHreX3p-Z9",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/CwHreX3p-Z9/",
+      "position_on_profile": 64,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CwAJOtTxmW2",
+      "reel_url": "https://www.instagram.com/missdivaorg/p/CwAJOtTxmW2/",
+      "position_on_profile": 65,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "Cv3_hyzpgvV",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/Cv3_hyzpgvV/",
+      "position_on_profile": 66,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CvmLOtypg1q",
+      "reel_url": "https://www.instagram.com/viddhi.giri/p/CvmLOtypg1q/",
+      "position_on_profile": 67,
+      "post_type": "image",
+      "thumbnail_collected": false
+    }
+  ],
+  "summary": {
+    "total_posts_found": 174,
+    "posts_indexed": 67
+  }
+}

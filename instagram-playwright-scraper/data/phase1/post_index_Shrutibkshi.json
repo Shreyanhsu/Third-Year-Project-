@@ -1,0 +1,864 @@
+{
+  "schema_version": "1.0",
+  "scrape_phase": "post_index",
+  "creator": {
+    "creator_username": "Shrutibkshi",
+    "profile_url": "https://www.instagram.com/Shrutibkshi/",
+    "niche": "Beauty",
+    "followers_count_visible": "410K",
+    "verified": false
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-02-03T21:33:42.266Z",
+    "scraper_type": "playwright_ui_controlled",
+    "post_selection_strategy": "balanced_with_reel_fallback",
+    "max_posts_collected": 120,
+    "scroll_behavior": "manual_like_slow_scroll"
+  },
+  "posts_index": [
+    {
+      "post_id": "DD6yphyhkqe",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DD6yphyhkqe/",
+      "position_on_profile": 1,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C9w42UXB8Sd",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/C9w42UXB8Sd/",
+      "position_on_profile": 2,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C5LFxqFhQ7g",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/C5LFxqFhQ7g/",
+      "position_on_profile": 3,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUNfWolAf_-",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DUNfWolAf_-/",
+      "position_on_profile": 4,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUF5lI-gQVi",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DUF5lI-gQVi/",
+      "position_on_profile": 5,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUApk9UAeXQ",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DUApk9UAeXQ/",
+      "position_on_profile": 6,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT7n-FpAaPL",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DT7n-FpAaPL/",
+      "position_on_profile": 7,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT0FP-mAZrh",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DT0FP-mAZrh/",
+      "position_on_profile": 8,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTvTDZsAb6p",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DTvTDZsAb6p/",
+      "position_on_profile": 9,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTsRyltAU_5",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DTsRyltAU_5/",
+      "position_on_profile": 10,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTkrHpZgd7x",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DTkrHpZgd7x/",
+      "position_on_profile": 11,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTZ7sAqAV6p",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DTZ7sAqAV6p/",
+      "position_on_profile": 12,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTF8UghgexD",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DTF8UghgexD/",
+      "position_on_profile": 13,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS7FuL2AVrN",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DS7FuL2AVrN/",
+      "position_on_profile": 14,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSxAqKEgcRb",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DSxAqKEgcRb/",
+      "position_on_profile": 15,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSrzcfOATtd",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DSrzcfOATtd/",
+      "position_on_profile": 16,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSpeIRqgceh",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DSpeIRqgceh/",
+      "position_on_profile": 17,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DShVag3gQxA",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DShVag3gQxA/",
+      "position_on_profile": 18,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DScbODcgX7d",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DScbODcgX7d/",
+      "position_on_profile": 19,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSSIgLZgRw0",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DSSIgLZgRw0/",
+      "position_on_profile": 20,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSPePdsATlF",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DSPePdsATlF/",
+      "position_on_profile": 21,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSAN57ZgZ46",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DSAN57ZgZ46/",
+      "position_on_profile": 22,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR6XWKbgU4e",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DR6XWKbgU4e/",
+      "position_on_profile": 23,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR1uvKzgQ_j",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DR1uvKzgQ_j/",
+      "position_on_profile": 24,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRt8MqZgSWD",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DRt8MqZgSWD/",
+      "position_on_profile": 25,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRjtHVGATq2",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DRjtHVGATq2/",
+      "position_on_profile": 26,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRhSktmgeEw",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DRhSktmgeEw/",
+      "position_on_profile": 27,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRevlaDAUg9",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DRevlaDAUg9/",
+      "position_on_profile": 28,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRZwMMKgewo",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DRZwMMKgewo/",
+      "position_on_profile": 29,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRXS_cpgXS6",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DRXS_cpgXS6/",
+      "position_on_profile": 30,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRRQ1v9AahB",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DRRQ1v9AahB/",
+      "position_on_profile": 31,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRHOGQAAdgF",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DRHOGQAAdgF/",
+      "position_on_profile": 32,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ_mNTHAc4T",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DQ_mNTHAc4T/",
+      "position_on_profile": 33,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ9IGKrgaC8",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DQ9IGKrgaC8/",
+      "position_on_profile": 34,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ4B98eAcah",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DQ4B98eAcah/",
+      "position_on_profile": 35,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ1rjONgbfh",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DQ1rjONgbfh/",
+      "position_on_profile": 36,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQq_eTbAZC2",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DQq_eTbAZC2/",
+      "position_on_profile": 37,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQo01onAXYy",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DQo01onAXYy/",
+      "position_on_profile": 38,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQmK4rbkh28",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DQmK4rbkh28/",
+      "position_on_profile": 39,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQgGP4AgSQS",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DQgGP4AgSQS/",
+      "position_on_profile": 40,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTunItlgd5E",
+      "reel_url": "https://www.instagram.com/shrutibkshi/p/DTunItlgd5E/",
+      "position_on_profile": 41,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTklU-3AQdd",
+      "reel_url": "https://www.instagram.com/shrutibkshi/p/DTklU-3AQdd/",
+      "position_on_profile": 42,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTX1rKmAdAF",
+      "reel_url": "https://www.instagram.com/shrutibkshi/p/DTX1rKmAdAF/",
+      "position_on_profile": 43,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSmqNbMAbrD",
+      "reel_url": "https://www.instagram.com/shrutibkshi/p/DSmqNbMAbrD/",
+      "position_on_profile": 44,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSZzzZCAfL8",
+      "reel_url": "https://www.instagram.com/shrutibkshi/p/DSZzzZCAfL8/",
+      "position_on_profile": 45,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DREpVRyga2k",
+      "reel_url": "https://www.instagram.com/shrutibkshi/p/DREpVRyga2k/",
+      "position_on_profile": 46,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP_Zb77AbWb",
+      "reel_url": "https://www.instagram.com/shrutibkshi/p/DP_Zb77AbWb/",
+      "position_on_profile": 47,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOs-YWvgcDF",
+      "reel_url": "https://www.instagram.com/shrutibkshi/p/DOs-YWvgcDF/",
+      "position_on_profile": 48,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOgGIYMgaU3",
+      "reel_url": "https://www.instagram.com/shrutibkshi/p/DOgGIYMgaU3/",
+      "position_on_profile": 49,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOQiDQkgXXx",
+      "reel_url": "https://www.instagram.com/shrutibkshi/p/DOQiDQkgXXx/",
+      "position_on_profile": 50,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNu96mUwoCr",
+      "reel_url": "https://www.instagram.com/shrutibkshi/p/DNu96mUwoCr/",
+      "position_on_profile": 51,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQbUIxaEk4B",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DQbUIxaEk4B/",
+      "position_on_profile": 52,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQWiQV6AZ9D",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DQWiQV6AZ9D/",
+      "position_on_profile": 53,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQOom07iNpC",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DQOom07iNpC/",
+      "position_on_profile": 54,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQG9pLwgWhr",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DQG9pLwgWhr/",
+      "position_on_profile": 55,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQB5JzzgQad",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DQB5JzzgQad/",
+      "position_on_profile": 56,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP_H7z2jhit",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DP_H7z2jhit/",
+      "position_on_profile": 57,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP9APotAbL2",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DP9APotAbL2/",
+      "position_on_profile": 58,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP6Vs9TgXPV",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DP6Vs9TgXPV/",
+      "position_on_profile": 59,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPvv-K8gfZo",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DPvv-K8gfZo/",
+      "position_on_profile": 60,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPtFR0NgTT9",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DPtFR0NgTT9/",
+      "position_on_profile": 61,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPl2mVJAfZ5",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DPl2mVJAfZ5/",
+      "position_on_profile": 62,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPbT5GagVu6",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DPbT5GagVu6/",
+      "position_on_profile": 63,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPWUKPIgSz7",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DPWUKPIgSz7/",
+      "position_on_profile": 64,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPREPykghUR",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DPREPykghUR/",
+      "position_on_profile": 65,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPOz4rtAX6K",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DPOz4rtAX6K/",
+      "position_on_profile": 66,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPMF5rCAbTV",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DPMF5rCAbTV/",
+      "position_on_profile": 67,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPD9-n7AcJ7",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DPD9-n7AcJ7/",
+      "position_on_profile": 68,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPByUiQgSP7",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DPByUiQgSP7/",
+      "position_on_profile": 69,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO8KX-PAWnw",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DO8KX-PAWnw/",
+      "position_on_profile": 70,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO6AiIIASbJ",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DO6AiIIASbJ/",
+      "position_on_profile": 71,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO29be5gTVD",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DO29be5gTVD/",
+      "position_on_profile": 72,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOvSl9jkkvM",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DOvSl9jkkvM/",
+      "position_on_profile": 73,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOs45mMAU6B",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DOs45mMAU6B/",
+      "position_on_profile": 74,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOlW1auAa6i",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DOlW1auAa6i/",
+      "position_on_profile": 75,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOik2CkgRFK",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DOik2CkgRFK/",
+      "position_on_profile": 76,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOf914cgX7_",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DOf914cgX7_/",
+      "position_on_profile": 77,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DON6JyzAe12",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DON6JyzAe12/",
+      "position_on_profile": 78,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOI5rUpAeCR",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DOI5rUpAeCR/",
+      "position_on_profile": 79,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOBWZ2YAWLi",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DOBWZ2YAWLi/",
+      "position_on_profile": 80,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DN52itWgdxb",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DN52itWgdxb/",
+      "position_on_profile": 81,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNx0_JjQtcG",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DNx0_JjQtcG/",
+      "position_on_profile": 82,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNsgAzwQkgv",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DNsgAzwQkgv/",
+      "position_on_profile": 83,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNqVYanh60L",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DNqVYanh60L/",
+      "position_on_profile": 84,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNiZ5dLhd-j",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DNiZ5dLhd-j/",
+      "position_on_profile": 85,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNVLgvShzZz",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DNVLgvShzZz/",
+      "position_on_profile": 86,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNSltjghnO8",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DNSltjghnO8/",
+      "position_on_profile": 87,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNQW5T0Bswf",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DNQW5T0Bswf/",
+      "position_on_profile": 88,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNDT_7xhUYT",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DNDT_7xhUYT/",
+      "position_on_profile": 89,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNA3pjMB17A",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DNA3pjMB17A/",
+      "position_on_profile": 90,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DM2bTyPh7Xr",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DM2bTyPh7Xr/",
+      "position_on_profile": 91,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DM0RnsshnvQ",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DM0RnsshnvQ/",
+      "position_on_profile": 92,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMxd8cnhzK0",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DMxd8cnhzK0/",
+      "position_on_profile": 93,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMsR5MZB9wt",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DMsR5MZB9wt/",
+      "position_on_profile": 94,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMnFpN8hzPZ",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DMnFpN8hzPZ/",
+      "position_on_profile": 95,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMkq3NLBzue",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DMkq3NLBzue/",
+      "position_on_profile": 96,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMh_MqsBPE9",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DMh_MqsBPE9/",
+      "position_on_profile": 97,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMfZQaiBnSC",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DMfZQaiBnSC/",
+      "position_on_profile": 98,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMc_A7lhfrj",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DMc_A7lhfrj/",
+      "position_on_profile": 99,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMaZ_07hJUA",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DMaZ_07hJUA/",
+      "position_on_profile": 100,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMVCYmaBUJc",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DMVCYmaBUJc/",
+      "position_on_profile": 101,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMR2odNO18s",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DMR2odNO18s/",
+      "position_on_profile": 102,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMCzMmfh9b3",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DMCzMmfh9b3/",
+      "position_on_profile": 103,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMAc85Lhs7R",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DMAc85Lhs7R/",
+      "position_on_profile": 104,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DL7StPhB5kd",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DL7StPhB5kd/",
+      "position_on_profile": 105,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLzzgz1hsu7",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DLzzgz1hsu7/",
+      "position_on_profile": 106,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLugJUFhudO",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DLugJUFhudO/",
+      "position_on_profile": 107,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLpQJkThjq-",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DLpQJkThjq-/",
+      "position_on_profile": 108,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLj82OVhmuN",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DLj82OVhmuN/",
+      "position_on_profile": 109,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLcTUOCBLcC",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DLcTUOCBLcC/",
+      "position_on_profile": 110,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLVIZxtyKZS",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DLVIZxtyKZS/",
+      "position_on_profile": 111,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLPQRwzh7RA",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DLPQRwzh7RA/",
+      "position_on_profile": 112,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLM7fJto_d1",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DLM7fJto_d1/",
+      "position_on_profile": 113,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLKqkMJhnSv",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DLKqkMJhnSv/",
+      "position_on_profile": 114,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLFQFzgB_iw",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DLFQFzgB_iw/",
+      "position_on_profile": 115,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLABAVWB-WX",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DLABAVWB-WX/",
+      "position_on_profile": 116,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DK9qvNdBaZg",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DK9qvNdBaZg/",
+      "position_on_profile": 117,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DK4FSVmBjgQ",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DK4FSVmBjgQ/",
+      "position_on_profile": 118,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKzOldPBSrw",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DKzOldPBSrw/",
+      "position_on_profile": 119,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKrttwKhRor",
+      "reel_url": "https://www.instagram.com/Shrutibkshi/reel/DKrttwKhRor/",
+      "position_on_profile": 120,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    }
+  ],
+  "summary": {
+    "total_posts_found": 215,
+    "posts_indexed": 120
+  }
+}

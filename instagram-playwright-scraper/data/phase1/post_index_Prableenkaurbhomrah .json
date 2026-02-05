@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "scrape_phase": "post_index",
+  "creator": {
+    "creator_username": "Prableenkaurbhomrah ",
+    "profile_url": "https://www.instagram.com/Prableenkaurbhomrah /",
+    "niche": "Beauty",
+    "followers_count_visible": "unknown",
+    "verified": true
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-02-04T07:51:01.413Z",
+    "scraper_type": "playwright_ui_controlled",
+    "post_selection_strategy": "balanced_with_reel_fallback",
+    "max_posts_collected": 0,
+    "scroll_behavior": "manual_like_slow_scroll"
+  },
+  "posts_index": [],
+  "summary": {
+    "total_posts_found": 0,
+    "posts_indexed": 0
+  }
+}

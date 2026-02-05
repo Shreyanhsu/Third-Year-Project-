@@ -1,0 +1,864 @@
+{
+  "schema_version": "1.0",
+  "scrape_phase": "post_index",
+  "creator": {
+    "creator_username": "Mridul_sharmaa",
+    "profile_url": "https://www.instagram.com/Mridul_sharmaa/",
+    "niche": "Beauty",
+    "followers_count_visible": "248K",
+    "verified": true
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-02-03T20:49:55.545Z",
+    "scraper_type": "playwright_ui_controlled",
+    "post_selection_strategy": "balanced_with_reel_fallback",
+    "max_posts_collected": 120,
+    "scroll_behavior": "manual_like_slow_scroll"
+  },
+  "posts_index": [
+    {
+      "post_id": "C_lWLvzSaRP",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/C_lWLvzSaRP/",
+      "position_on_profile": 1,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C6ZNYf6pwW4",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/C6ZNYf6pwW4/",
+      "position_on_profile": 2,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUTPMxRjNgl",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DUTPMxRjNgl/",
+      "position_on_profile": 3,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUQabHpDKHG",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DUQabHpDKHG/",
+      "position_on_profile": 4,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUOCkOYjHxV",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DUOCkOYjHxV/",
+      "position_on_profile": 5,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUImp5EDLsk",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DUImp5EDLsk/",
+      "position_on_profile": 6,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUGN7Npj_nR",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DUGN7Npj_nR/",
+      "position_on_profile": 7,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUBRP-5jNA5",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DUBRP-5jNA5/",
+      "position_on_profile": 8,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT-N2RkjMyX",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DT-N2RkjMyX/",
+      "position_on_profile": 9,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT22WXdDGLJ",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DT22WXdDGLJ/",
+      "position_on_profile": 10,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTvYXjGDOvt",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DTvYXjGDOvt/",
+      "position_on_profile": 11,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTsuVGfjGsO",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DTsuVGfjGsO/",
+      "position_on_profile": 12,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTpqTWAjJfv",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DTpqTWAjJfv/",
+      "position_on_profile": 13,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTk7j2EjByi",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DTk7j2EjByi/",
+      "position_on_profile": 14,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTiVK45DOML",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DTiVK45DOML/",
+      "position_on_profile": 15,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTVmAbdDGwv",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DTVmAbdDGwv/",
+      "position_on_profile": 16,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTVIk1IjY8N",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DTVIk1IjY8N/",
+      "position_on_profile": 17,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTNj_lJDCsf",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DTNj_lJDCsf/",
+      "position_on_profile": 18,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTLS_gzDzZ9",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DTLS_gzDzZ9/",
+      "position_on_profile": 19,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTDaZ7uDAom",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DTDaZ7uDAom/",
+      "position_on_profile": 20,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS7cbaFDBvX",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DS7cbaFDBvX/",
+      "position_on_profile": 21,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS7b1fCjLUt",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DS7b1fCjLUt/",
+      "position_on_profile": 22,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS4-FDtjBP2",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DS4-FDtjBP2/",
+      "position_on_profile": 23,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSuydAhj_-c",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DSuydAhj_-c/",
+      "position_on_profile": 24,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSpxAJ7j8oO",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DSpxAJ7j8oO/",
+      "position_on_profile": 25,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSpjSQWD-CJ",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DSpjSQWD-CJ/",
+      "position_on_profile": 26,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSj9jKlj562",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DSj9jKlj562/",
+      "position_on_profile": 27,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR95RjhjJJS",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DR95RjhjJJS/",
+      "position_on_profile": 28,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRpVWJAjDgz",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DRpVWJAjDgz/",
+      "position_on_profile": 29,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRj6_lijCW4",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DRj6_lijCW4/",
+      "position_on_profile": 30,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRfF-_QDOXD",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DRfF-_QDOXD/",
+      "position_on_profile": 31,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRcbwNRDNcN",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DRcbwNRDNcN/",
+      "position_on_profile": 32,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRZyZ_pD_S5",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DRZyZ_pD_S5/",
+      "position_on_profile": 33,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRPnDkoj2ey",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DRPnDkoj2ey/",
+      "position_on_profile": 34,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRNAE2-DOeV",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DRNAE2-DOeV/",
+      "position_on_profile": 35,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRFQDL0DEmr",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DRFQDL0DEmr/",
+      "position_on_profile": 36,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ7LEDgEnyW",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DQ7LEDgEnyW/",
+      "position_on_profile": 37,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ4NF0mjG5K",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DQ4NF0mjG5K/",
+      "position_on_profile": 38,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQy6eeODAiZ",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DQy6eeODAiZ/",
+      "position_on_profile": 39,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQweF81j6u2",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DQweF81j6u2/",
+      "position_on_profile": 40,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DBI3_IGppqY",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DBI3_IGppqY/",
+      "position_on_profile": 41,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "Ci0Sv2tqApm",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/Ci0Sv2tqApm/",
+      "position_on_profile": 42,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CtJ7NzIJAwD",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/CtJ7NzIJAwD/",
+      "position_on_profile": 43,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTkoLx4DBz5",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DTkoLx4DBz5/",
+      "position_on_profile": 44,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTiRVVmD3rs",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DTiRVVmD3rs/",
+      "position_on_profile": 45,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS5KhPLjIWo",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DS5KhPLjIWo/",
+      "position_on_profile": 46,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS4SydiDBJy",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DS4SydiDBJy/",
+      "position_on_profile": 47,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSnO2v6Dy_l",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DSnO2v6Dy_l/",
+      "position_on_profile": 48,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSh47sEjwT0",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DSh47sEjwT0/",
+      "position_on_profile": 49,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSXzSuZjNMV",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DSXzSuZjNMV/",
+      "position_on_profile": 50,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSNigKKjHOy",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DSNigKKjHOy/",
+      "position_on_profile": 51,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DR7N2fjjKDJ",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DR7N2fjjKDJ/",
+      "position_on_profile": 52,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRulK0kD3gC",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DRulK0kD3gC/",
+      "position_on_profile": 53,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRkOOhsjLE5",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DRkOOhsjLE5/",
+      "position_on_profile": 54,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRhy_cjDPPJ",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DRhy_cjDPPJ/",
+      "position_on_profile": 55,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQwwCaTj-JI",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DQwwCaTj-JI/",
+      "position_on_profile": 56,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQmbeguDNGP",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DQmbeguDNGP/",
+      "position_on_profile": 57,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQmNgVAjFMD",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DQmNgVAjFMD/",
+      "position_on_profile": 58,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQUjJ04DFKb",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DQUjJ04DFKb/",
+      "position_on_profile": 59,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQMoetEjHPn",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DQMoetEjHPn/",
+      "position_on_profile": 60,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQKOwBKD_uQ",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DQKOwBKD_uQ/",
+      "position_on_profile": 61,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQHOJgljOvS",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DQHOJgljOvS/",
+      "position_on_profile": 62,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP_hZt9D1YA",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DP_hZt9D1YA/",
+      "position_on_profile": 63,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP_XhDyj1d2",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DP_XhDyj1d2/",
+      "position_on_profile": 64,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPvzINTj3Dv",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DPvzINTj3Dv/",
+      "position_on_profile": 65,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPoxXhmjDxk",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DPoxXhmjDxk/",
+      "position_on_profile": 66,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPoTKa8DGKc",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DPoTKa8DGKc/",
+      "position_on_profile": 67,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPg_EGpjMTI",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DPg_EGpjMTI/",
+      "position_on_profile": 68,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPYINEPjyJZ",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DPYINEPjyJZ/",
+      "position_on_profile": 69,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPRV8cvj9pL",
+      "reel_url": "https://www.instagram.com/mridul_sharmaa/p/DPRV8cvj9pL/",
+      "position_on_profile": 70,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQt7XYzjxzE",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DQt7XYzjxzE/",
+      "position_on_profile": 71,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQmfpg0jPSq",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DQmfpg0jPSq/",
+      "position_on_profile": 72,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQhRtsQDBG6",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DQhRtsQDBG6/",
+      "position_on_profile": 73,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQesA68DPu6",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DQesA68DPu6/",
+      "position_on_profile": 74,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQZlfdaDBtC",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DQZlfdaDBtC/",
+      "position_on_profile": 75,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQWsDVpDEGP",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DQWsDVpDEGP/",
+      "position_on_profile": 76,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQUb-uEjz4U",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DQUb-uEjz4U/",
+      "position_on_profile": 77,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQHiAvtDOMU",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DQHiAvtDOMU/",
+      "position_on_profile": 78,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQE_GiFD8iS",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DQE_GiFD8iS/",
+      "position_on_profile": 79,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP_8h1Vj09a",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DP_8h1Vj09a/",
+      "position_on_profile": 80,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP_rvmDka-s",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DP_rvmDka-s/",
+      "position_on_profile": 81,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP9GUOZD3oN",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DP9GUOZD3oN/",
+      "position_on_profile": 82,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP6qKJ7E8EW",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DP6qKJ7E8EW/",
+      "position_on_profile": 83,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP6mibujHGC",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DP6mibujHGC/",
+      "position_on_profile": 84,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP6KmIVjB6G",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DP6KmIVjB6G/",
+      "position_on_profile": 85,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP4G5-QjHdM",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DP4G5-QjHdM/",
+      "position_on_profile": 86,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP1oMeYDOK0",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DP1oMeYDOK0/",
+      "position_on_profile": 87,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPypAJDDGZ1",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DPypAJDDGZ1/",
+      "position_on_profile": 88,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPrMQtxjEAK",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DPrMQtxjEAK/",
+      "position_on_profile": 89,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPoVNM-jy0N",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DPoVNM-jy0N/",
+      "position_on_profile": 90,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPl9WJkDzi4",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DPl9WJkDzi4/",
+      "position_on_profile": 91,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPOyuUQj7o8",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DPOyuUQj7o8/",
+      "position_on_profile": 92,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPJu63CD4GS",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DPJu63CD4GS/",
+      "position_on_profile": 93,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPCB5HlDzgm",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DPCB5HlDzgm/",
+      "position_on_profile": 94,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPBZp4qk6Ya",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DPBZp4qk6Ya/",
+      "position_on_profile": 95,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO_fvsGD76d",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DO_fvsGD76d/",
+      "position_on_profile": 96,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOvtDMnDFE0",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DOvtDMnDFE0/",
+      "position_on_profile": 97,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOqx6KTD0dB",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DOqx6KTD0dB/",
+      "position_on_profile": 98,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOa6bh-jyt2",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DOa6bh-jyt2/",
+      "position_on_profile": 99,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOL00Oqj6sf",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DOL00Oqj6sf/",
+      "position_on_profile": 100,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOBv-NwD5JJ",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DOBv-NwD5JJ/",
+      "position_on_profile": 101,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DN_LEqJDK4h",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DN_LEqJDK4h/",
+      "position_on_profile": 102,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DN8mnpcjy9-",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DN8mnpcjy9-/",
+      "position_on_profile": 103,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNyKCBPWBkg",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DNyKCBPWBkg/",
+      "position_on_profile": 104,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNtHrbiWEXq",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DNtHrbiWEXq/",
+      "position_on_profile": 105,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNqfU1xM91V",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DNqfU1xM91V/",
+      "position_on_profile": 106,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNilPqoJje_",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DNilPqoJje_/",
+      "position_on_profile": 107,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNgA9XxiJpn",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DNgA9XxiJpn/",
+      "position_on_profile": 108,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNa0FZtprqr",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DNa0FZtprqr/",
+      "position_on_profile": 109,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNXUuYlJiUq",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DNXUuYlJiUq/",
+      "position_on_profile": 110,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNV65BtK_7Y",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DNV65BtK_7Y/",
+      "position_on_profile": 111,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNS3zy2p4Ep",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DNS3zy2p4Ep/",
+      "position_on_profile": 112,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNH2TKzJAo1",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DNH2TKzJAo1/",
+      "position_on_profile": 113,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNF-BXapwO5",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DNF-BXapwO5/",
+      "position_on_profile": 114,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNDtxr4q3Jd",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DNDtxr4q3Jd/",
+      "position_on_profile": 115,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DM-rdoiz_IB",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DM-rdoiz_IB/",
+      "position_on_profile": 116,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DM7nrFCJWH1",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DM7nrFCJWH1/",
+      "position_on_profile": 117,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DM5VWOkCLGq",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DM5VWOkCLGq/",
+      "position_on_profile": 118,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMqGTqCJcov",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DMqGTqCJcov/",
+      "position_on_profile": 119,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMnfybmxWwn",
+      "reel_url": "https://www.instagram.com/Mridul_sharmaa/reel/DMnfybmxWwn/",
+      "position_on_profile": 120,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    }
+  ],
+  "summary": {
+    "total_posts_found": 354,
+    "posts_indexed": 120
+  }
+}

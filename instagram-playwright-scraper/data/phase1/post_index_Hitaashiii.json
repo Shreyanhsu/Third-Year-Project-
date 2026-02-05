@@ -1,0 +1,864 @@
+{
+  "schema_version": "1.0",
+  "scrape_phase": "post_index",
+  "creator": {
+    "creator_username": "Hitaashiii",
+    "profile_url": "https://www.instagram.com/Hitaashiii/",
+    "niche": "Beauty",
+    "followers_count_visible": "67.1K",
+    "verified": false
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-02-05T09:23:36.404Z",
+    "scraper_type": "playwright_ui_controlled",
+    "post_selection_strategy": "balanced_with_reel_fallback",
+    "max_posts_collected": 120,
+    "scroll_behavior": "manual_like_slow_scroll"
+  },
+  "posts_index": [
+    {
+      "post_id": "DI_g8omBNsf",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DI_g8omBNsf/",
+      "position_on_profile": 1,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DHyZnoVhYZp",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DHyZnoVhYZp/",
+      "position_on_profile": 2,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DH1BFyqh6b1",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DH1BFyqh6b1/",
+      "position_on_profile": 3,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUGMNM5DGEz",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DUGMNM5DGEz/",
+      "position_on_profile": 4,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT-b6u9gUDR",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DT-b6u9gUDR/",
+      "position_on_profile": 5,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT7waOcCPm2",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DT7waOcCPm2/",
+      "position_on_profile": 6,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTcwjLLCC6s",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DTcwjLLCC6s/",
+      "position_on_profile": 7,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTDPKKRAWYL",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DTDPKKRAWYL/",
+      "position_on_profile": 8,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSpeLy8gdvX",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DSpeLy8gdvX/",
+      "position_on_profile": 9,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSNJ2bljPtx",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DSNJ2bljPtx/",
+      "position_on_profile": 10,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRwjTGAAfMZ",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DRwjTGAAfMZ/",
+      "position_on_profile": 11,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRpF3rPAUFa",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DRpF3rPAUFa/",
+      "position_on_profile": 12,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRhSctZAdaN",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DRhSctZAdaN/",
+      "position_on_profile": 13,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRenhmTgQzD",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DRenhmTgQzD/",
+      "position_on_profile": 14,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRCeA50geOg",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DRCeA50geOg/",
+      "position_on_profile": 15,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ03gxzAfV3",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DQ03gxzAfV3/",
+      "position_on_profile": 16,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQt3bF6geIj",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DQt3bF6geIj/",
+      "position_on_profile": 17,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQrRLZxAdI0",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DQrRLZxAdI0/",
+      "position_on_profile": 18,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQorarZAVzL",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DQorarZAVzL/",
+      "position_on_profile": 19,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQmJaFqgQPQ",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DQmJaFqgQPQ/",
+      "position_on_profile": 20,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQjkw4-gfud",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DQjkw4-gfud/",
+      "position_on_profile": 21,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQg5dRBgSgW",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DQg5dRBgSgW/",
+      "position_on_profile": 22,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPtmuxDjKW-",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DPtmuxDjKW-/",
+      "position_on_profile": 23,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPl5AAfAa9x",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DPl5AAfAa9x/",
+      "position_on_profile": 24,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPgprG6AYhm",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DPgprG6AYhm/",
+      "position_on_profile": 25,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPeGeFFgbvn",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DPeGeFFgbvn/",
+      "position_on_profile": 26,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPROtrWE9N1",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DPROtrWE9N1/",
+      "position_on_profile": 27,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPOzuklDPDz",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DPOzuklDPDz/",
+      "position_on_profile": 28,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPMNEzUgZq3",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DPMNEzUgZq3/",
+      "position_on_profile": 29,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPJo8p8AX7p",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DPJo8p8AX7p/",
+      "position_on_profile": 30,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPHAxjnARjz",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DPHAxjnARjz/",
+      "position_on_profile": 31,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPEXK9MAf9w",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DPEXK9MAf9w/",
+      "position_on_profile": 32,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPEJ0baAeKT",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DPEJ0baAeKT/",
+      "position_on_profile": 33,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPB02oTgaAo",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DPB02oTgaAo/",
+      "position_on_profile": 34,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO_QHbpgZdu",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DO_QHbpgZdu/",
+      "position_on_profile": 35,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO8rMWCAaye",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DO8rMWCAaye/",
+      "position_on_profile": 36,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO6EHXqAQtW",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DO6EHXqAQtW/",
+      "position_on_profile": 37,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOsz_FkgfVR",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DOsz_FkgfVR/",
+      "position_on_profile": 38,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOqj3Z0gUJk",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DOqj3Z0gUJk/",
+      "position_on_profile": 39,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOgQqMhAdC3",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DOgQqMhAdC3/",
+      "position_on_profile": 40,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CVsZguRhod8",
+      "reel_url": "https://www.instagram.com/hitaashiii/p/CVsZguRhod8/",
+      "position_on_profile": 41,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DB1eKMwTSWK",
+      "reel_url": "https://www.instagram.com/hitaashiii/p/DB1eKMwTSWK/",
+      "position_on_profile": 42,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CkYjPAWBT-L",
+      "reel_url": "https://www.instagram.com/hitaashiii/p/CkYjPAWBT-L/",
+      "position_on_profile": 43,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOV-jHxgcII",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DOV-jHxgcII/",
+      "position_on_profile": 44,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOQxmD1gePU",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DOQxmD1gePU/",
+      "position_on_profile": 45,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOLrfkfAXXv",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DOLrfkfAXXv/",
+      "position_on_profile": 46,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOGZ6lcgVPe",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DOGZ6lcgVPe/",
+      "position_on_profile": 47,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOBVfTXgRCI",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DOBVfTXgRCI/",
+      "position_on_profile": 48,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DN3Cq8aQkP4",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DN3Cq8aQkP4/",
+      "position_on_profile": 49,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNvVUTUQptJ",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DNvVUTUQptJ/",
+      "position_on_profile": 50,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNqK6L7B3l6",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DNqK6L7B3l6/",
+      "position_on_profile": 51,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNf5-j5hdhr",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DNf5-j5hdhr/",
+      "position_on_profile": 52,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNYJPG0zmYm",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DNYJPG0zmYm/",
+      "position_on_profile": 53,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DM-Sbr-vPvm",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DM-Sbr-vPvm/",
+      "position_on_profile": 54,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DM2sCc9BuG9",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DM2sCc9BuG9/",
+      "position_on_profile": 55,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMsc2dShRgM",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DMsc2dShRgM/",
+      "position_on_profile": 56,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMnd1PVxUOU",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DMnd1PVxUOU/",
+      "position_on_profile": 57,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMdK5mFB6uj",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DMdK5mFB6uj/",
+      "position_on_profile": 58,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMVUWiDBqEI",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DMVUWiDBqEI/",
+      "position_on_profile": 59,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMQBR1ahMND",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DMQBR1ahMND/",
+      "position_on_profile": 60,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMK4DIShG_W",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DMK4DIShG_W/",
+      "position_on_profile": 61,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMFx8CHhejB",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DMFx8CHhejB/",
+      "position_on_profile": 62,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMAn2f4BbyD",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DMAn2f4BbyD/",
+      "position_on_profile": 63,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DL46Hbeh_lA",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DL46Hbeh_lA/",
+      "position_on_profile": 64,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLsCPi_B4up",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DLsCPi_B4up/",
+      "position_on_profile": 65,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLnAXOMh55z",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DLnAXOMh55z/",
+      "position_on_profile": 66,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLhs-mKBlKl",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DLhs-mKBlKl/",
+      "position_on_profile": 67,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLfOZEzhoWP",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DLfOZEzhoWP/",
+      "position_on_profile": 68,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLckQRGhOzD",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DLckQRGhOzD/",
+      "position_on_profile": 69,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLaC03NBC9d",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DLaC03NBC9d/",
+      "position_on_profile": 70,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLXbRVQBphT",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DLXbRVQBphT/",
+      "position_on_profile": 71,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLU4vovh5Un",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DLU4vovh5Un/",
+      "position_on_profile": 72,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLSOIL7hoj8",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DLSOIL7hoj8/",
+      "position_on_profile": 73,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLNEnmgBO7b",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DLNEnmgBO7b/",
+      "position_on_profile": 74,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLM4zUuh69H",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DLM4zUuh69H/",
+      "position_on_profile": 75,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLKioP0h4hY",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DLKioP0h4hY/",
+      "position_on_profile": 76,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLIC_T0hwsK",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DLIC_T0hwsK/",
+      "position_on_profile": 77,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLFRrjoB8BM",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DLFRrjoB8BM/",
+      "position_on_profile": 78,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLC0hqeh_72",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DLC0hqeh_72/",
+      "position_on_profile": 79,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLAKSzSB6sV",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DLAKSzSB6sV/",
+      "position_on_profile": 80,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DK9oFXehhTY",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DK9oFXehhTY/",
+      "position_on_profile": 81,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DK7OvMRBxZG",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DK7OvMRBxZG/",
+      "position_on_profile": 82,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DK4h1fNBLSh",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DK4h1fNBLSh/",
+      "position_on_profile": 83,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DK19es2BPFI",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DK19es2BPFI/",
+      "position_on_profile": 84,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKzUu2dBLmy",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKzUu2dBLmy/",
+      "position_on_profile": 85,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKw1m6_BRXD",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKw1m6_BRXD/",
+      "position_on_profile": 86,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKuPd7yhsrK",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKuPd7yhsrK/",
+      "position_on_profile": 87,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKruqzvBNvf",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKruqzvBNvf/",
+      "position_on_profile": 88,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKpJPlXBi-B",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKpJPlXBi-B/",
+      "position_on_profile": 89,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKmiGFjBhY6",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKmiGFjBhY6/",
+      "position_on_profile": 90,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKj4WS4BErs",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKj4WS4BErs/",
+      "position_on_profile": 91,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKhUPonhJKB",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKhUPonhJKB/",
+      "position_on_profile": 92,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKe0oM1h1Uf",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKe0oM1h1Uf/",
+      "position_on_profile": 93,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKcQArHpjnA",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKcQArHpjnA/",
+      "position_on_profile": 94,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKZktBrBR7P",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKZktBrBR7P/",
+      "position_on_profile": 95,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKXEdvkBWFp",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKXEdvkBWFp/",
+      "position_on_profile": 96,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKUTVUqhd5m",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKUTVUqhd5m/",
+      "position_on_profile": 97,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKR5yC-BZ8i",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKR5yC-BZ8i/",
+      "position_on_profile": 98,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKPVMjShnLs",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKPVMjShnLs/",
+      "position_on_profile": 99,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKMw2oEBNe1",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKMw2oEBNe1/",
+      "position_on_profile": 100,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKKKvZdhso3",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKKKvZdhso3/",
+      "position_on_profile": 101,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKHmNtDhhEM",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKHmNtDhhEM/",
+      "position_on_profile": 102,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKFHdfkhlhZ",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKFHdfkhlhZ/",
+      "position_on_profile": 103,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKCitWBhftr",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DKCitWBhftr/",
+      "position_on_profile": 104,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJ_8nL1hbJe",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DJ_8nL1hbJe/",
+      "position_on_profile": 105,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJ9TqqrhQYn",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DJ9TqqrhQYn/",
+      "position_on_profile": 106,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJ668WFh-XY",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DJ668WFh-XY/",
+      "position_on_profile": 107,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJ4KnGSBeBR",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DJ4KnGSBeBR/",
+      "position_on_profile": 108,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJ1irB5BY-f",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DJ1irB5BY-f/",
+      "position_on_profile": 109,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJzDMlIhB1z",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DJzDMlIhB1z/",
+      "position_on_profile": 110,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJwd9SChwJa",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DJwd9SChwJa/",
+      "position_on_profile": 111,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJt43_IBW-A",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DJt43_IBW-A/",
+      "position_on_profile": 112,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJrScxJhjZ_",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DJrScxJhjZ_/",
+      "position_on_profile": 113,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJorEyzBQHa",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DJorEyzBQHa/",
+      "position_on_profile": 114,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJmLJnIhMAr",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DJmLJnIhMAr/",
+      "position_on_profile": 115,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJjhws-hv_i",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DJjhws-hv_i/",
+      "position_on_profile": 116,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJhC-qkB_im",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DJhC-qkB_im/",
+      "position_on_profile": 117,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJeaYKBhCF2",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DJeaYKBhCF2/",
+      "position_on_profile": 118,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJcB05gBE4n",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DJcB05gBE4n/",
+      "position_on_profile": 119,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJZRelQhe1K",
+      "reel_url": "https://www.instagram.com/Hitaashiii/reel/DJZRelQhe1K/",
+      "position_on_profile": 120,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    }
+  ],
+  "summary": {
+    "total_posts_found": 207,
+    "posts_indexed": 120
+  }
+}

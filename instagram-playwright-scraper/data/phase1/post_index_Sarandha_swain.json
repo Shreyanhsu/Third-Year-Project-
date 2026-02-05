@@ -9,7 +9,7 @@
     "verified": false
   },
   "scrape_metadata": {
-    "scraped_at": "2026-02-04T11:04:31.525Z",
+    "scraped_at": "2026-02-05T10:27:24.580Z",
     "scraper_type": "playwright_ui_controlled",
     "post_selection_strategy": "balanced_with_reel_fallback",
     "max_posts_collected": 120,

@@ -1,0 +1,864 @@
+{
+  "schema_version": "1.0",
+  "scrape_phase": "post_index",
+  "creator": {
+    "creator_username": "Sanskritisingh08",
+    "profile_url": "https://www.instagram.com/Sanskritisingh08/",
+    "niche": "Beauty",
+    "followers_count_visible": "361K",
+    "verified": false
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-02-04T06:24:56.679Z",
+    "scraper_type": "playwright_ui_controlled",
+    "post_selection_strategy": "balanced_with_reel_fallback",
+    "max_posts_collected": 120,
+    "scroll_behavior": "manual_like_slow_scroll"
+  },
+  "posts_index": [
+    {
+      "post_id": "DUS4vDeDAym",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DUS4vDeDAym/",
+      "position_on_profile": 1,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUDc-4vk2e5",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DUDc-4vk2e5/",
+      "position_on_profile": 2,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTxo9wCEwIw",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DTxo9wCEwIw/",
+      "position_on_profile": 3,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT7PLgCk1YY",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DT7PLgCk1YY/",
+      "position_on_profile": 4,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT4e3_DE6nM",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DT4e3_DE6nM/",
+      "position_on_profile": 5,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT2fIywk-U-",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DT2fIywk-U-/",
+      "position_on_profile": 6,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTxbJ6Nk0Dq",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DTxbJ6Nk0Dq/",
+      "position_on_profile": 7,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTsWIzME60E",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DTsWIzME60E/",
+      "position_on_profile": 8,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTuWgECk_Ls",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DTuWgECk_Ls/",
+      "position_on_profile": 9,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTr1oTrk43n",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DTr1oTrk43n/",
+      "position_on_profile": 10,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTlH6nqE5zU",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DTlH6nqE5zU/",
+      "position_on_profile": 11,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTh9afdkyn4",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DTh9afdkyn4/",
+      "position_on_profile": 12,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTeuNT2kyRb",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DTeuNT2kyRb/",
+      "position_on_profile": 13,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTcyD7yEw13",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DTcyD7yEw13/",
+      "position_on_profile": 14,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTa3Gp0E-2j",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DTa3Gp0E-2j/",
+      "position_on_profile": 15,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTXyIvkk3dn",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DTXyIvkk3dn/",
+      "position_on_profile": 16,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTUxy5FE1nv",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DTUxy5FE1nv/",
+      "position_on_profile": 17,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTH3H4Vk_st",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DTH3H4Vk_st/",
+      "position_on_profile": 18,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTDPesZk2iU",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DTDPesZk2iU/",
+      "position_on_profile": 19,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS5W7RSE7om",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DS5W7RSE7om/",
+      "position_on_profile": 20,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS5C4QJE5db",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DS5C4QJE5db/",
+      "position_on_profile": 21,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSze_Agk3oF",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DSze_Agk3oF/",
+      "position_on_profile": 22,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSnAv_ck7cQ",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DSnAv_ck7cQ/",
+      "position_on_profile": 23,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSkUIRcE1EO",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DSkUIRcE1EO/",
+      "position_on_profile": 24,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSfoInWk-D5",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DSfoInWk-D5/",
+      "position_on_profile": 25,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSaN9cBk_Hq",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DSaN9cBk_Hq/",
+      "position_on_profile": 26,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSW3TCyE4yb",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DSW3TCyE4yb/",
+      "position_on_profile": 27,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSVFSZTE1Qy",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DSVFSZTE1Qy/",
+      "position_on_profile": 28,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSUiVV2k8Tb",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DSUiVV2k8Tb/",
+      "position_on_profile": 29,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSSDjvtE0yg",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DSSDjvtE0yg/",
+      "position_on_profile": 30,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSCiGxeE73d",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DSCiGxeE73d/",
+      "position_on_profile": 31,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRzDPRak2-_",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DRzDPRak2-_/",
+      "position_on_profile": 32,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRu2fyxk0TC",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DRu2fyxk0TC/",
+      "position_on_profile": 33,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRb-SSIE394",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DRb-SSIE394/",
+      "position_on_profile": 34,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRW7P1Vk2Ab",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DRW7P1Vk2Ab/",
+      "position_on_profile": 35,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRMYuRdk5l3",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DRMYuRdk5l3/",
+      "position_on_profile": 36,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ9HZ4iExEZ",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DQ9HZ4iExEZ/",
+      "position_on_profile": 37,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ4dgVIk-hd",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DQ4dgVIk-hd/",
+      "position_on_profile": 38,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ19Bb6E4Ha",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DQ19Bb6E4Ha/",
+      "position_on_profile": 39,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQq1P2EE--1",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DQq1P2EE--1/",
+      "position_on_profile": 40,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS6xXuskwxv",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DS6xXuskwxv/",
+      "position_on_profile": 41,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSFGMtmk3wb",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DSFGMtmk3wb/",
+      "position_on_profile": 42,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUNP4B-k1tn",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DUNP4B-k1tn/",
+      "position_on_profile": 43,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT939yRE_RY",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DT939yRE_RY/",
+      "position_on_profile": 44,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTnCSLok1id",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DTnCSLok1id/",
+      "position_on_profile": 45,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTkNQnfE_Ra",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DTkNQnfE_Ra/",
+      "position_on_profile": 46,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTR9JsDE0iZ",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DTR9JsDE0iZ/",
+      "position_on_profile": 47,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTPgwFiE8PT",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DTPgwFiE8PT/",
+      "position_on_profile": 48,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTNViewk_RF",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DTNViewk_RF/",
+      "position_on_profile": 49,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTKIgjQEyIe",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DTKIgjQEyIe/",
+      "position_on_profile": 50,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTFDisyE9ex",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DTFDisyE9ex/",
+      "position_on_profile": 51,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS1owO_EzrA",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DS1owO_EzrA/",
+      "position_on_profile": 52,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSxoqVZE7gf",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DSxoqVZE7gf/",
+      "position_on_profile": 53,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSrthsCEwrD",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DSrthsCEwrD/",
+      "position_on_profile": 54,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSKgx3AE4AU",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DSKgx3AE4AU/",
+      "position_on_profile": 55,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DReqkxUE4hP",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DReqkxUE4hP/",
+      "position_on_profile": 56,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRFTy9nE78P",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DRFTy9nE78P/",
+      "position_on_profile": 57,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQd5fxWE2_w",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DQd5fxWE2_w/",
+      "position_on_profile": 58,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQCfkMLE8k2",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DQCfkMLE8k2/",
+      "position_on_profile": 59,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPDjAMHk4A-",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DPDjAMHk4A-/",
+      "position_on_profile": 60,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOgADjUE3Hj",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DOgADjUE3Hj/",
+      "position_on_profile": 61,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOV_Q46E5Ed",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DOV_Q46E5Ed/",
+      "position_on_profile": 62,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNLO098z9AE",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DNLO098z9AE/",
+      "position_on_profile": 63,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMM2W7yyZlh",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DMM2W7yyZlh/",
+      "position_on_profile": 64,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMAW40syn3S",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DMAW40syn3S/",
+      "position_on_profile": 65,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLmQjDjyj1O",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DLmQjDjyj1O/",
+      "position_on_profile": 66,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLFMhMiyMFx",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DLFMhMiyMFx/",
+      "position_on_profile": 67,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKjraZrSnMU",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DKjraZrSnMU/",
+      "position_on_profile": 68,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJoPIISydIw",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DJoPIISydIw/",
+      "position_on_profile": 69,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DJW08lHylbg",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/DJW08lHylbg/",
+      "position_on_profile": 70,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DFAbNUwIGu7",
+      "reel_url": "https://www.instagram.com/trievia.in/p/DFAbNUwIGu7/",
+      "position_on_profile": 71,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C_aPk4qyZRL",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/C_aPk4qyZRL/",
+      "position_on_profile": 72,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C4f6jjlSzTR",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/C4f6jjlSzTR/",
+      "position_on_profile": 73,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C2497ioSHdK",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/C2497ioSHdK/",
+      "position_on_profile": 74,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C1ejl1sS4Uk",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/C1ejl1sS4Uk/",
+      "position_on_profile": 75,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C0yqdcxSiCx",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/C0yqdcxSiCx/",
+      "position_on_profile": 76,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "C0edLcESL1L",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/C0edLcESL1L/",
+      "position_on_profile": 77,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CzTHe3PyEjk",
+      "reel_url": "https://www.instagram.com/sanskritisingh08/p/CzTHe3PyEjk/",
+      "position_on_profile": 78,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQmqo7Ek8Nl",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DQmqo7Ek8Nl/",
+      "position_on_profile": 79,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQOoshrE8_7",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DQOoshrE8_7/",
+      "position_on_profile": 80,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQMWhTQk7AD",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DQMWhTQk7AD/",
+      "position_on_profile": 81,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQKS2etk8w7",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DQKS2etk8w7/",
+      "position_on_profile": 82,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQEZx1oE2Hj",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DQEZx1oE2Hj/",
+      "position_on_profile": 83,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP_VQ4cE8av",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DP_VQ4cE8av/",
+      "position_on_profile": 84,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP3yg8nE6j7",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DP3yg8nE6j7/",
+      "position_on_profile": 85,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPyhHKFk-Yq",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DPyhHKFk-Yq/",
+      "position_on_profile": 86,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPqeKRjE_PD",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DPqeKRjE_PD/",
+      "position_on_profile": 87,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPiz88_E76t",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DPiz88_E76t/",
+      "position_on_profile": 88,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPgb4UZk-TJ",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DPgb4UZk-TJ/",
+      "position_on_profile": 89,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPWK_ILk-2w",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DPWK_ILk-2w/",
+      "position_on_profile": 90,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPLUrG9k8n2",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DPLUrG9k8n2/",
+      "position_on_profile": 91,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO_KF-3kwyM",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DO_KF-3kwyM/",
+      "position_on_profile": 92,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO5oyKMk178",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DO5oyKMk178/",
+      "position_on_profile": 93,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOyKoRakweM",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DOyKoRakweM/",
+      "position_on_profile": 94,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOievrwE5de",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DOievrwE5de/",
+      "position_on_profile": 95,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOLpU2bE9RT",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DOLpU2bE9RT/",
+      "position_on_profile": 96,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOIxhLlAP9n",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DOIxhLlAP9n/",
+      "position_on_profile": 97,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOEIk49E3fZ",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DOEIk49E3fZ/",
+      "position_on_profile": 98,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DN5Q6l0EwqQ",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DN5Q6l0EwqQ/",
+      "position_on_profile": 99,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DN2iLXz5va7",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DN2iLXz5va7/",
+      "position_on_profile": 100,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DN0ZZh7ZsPR",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DN0ZZh7ZsPR/",
+      "position_on_profile": 101,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNqOClqzx8-",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DNqOClqzx8-/",
+      "position_on_profile": 102,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNa52iVztcD",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DNa52iVztcD/",
+      "position_on_profile": 103,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNVZ-Z3xr5w",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DNVZ-Z3xr5w/",
+      "position_on_profile": 104,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNTM3BpTdsC",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DNTM3BpTdsC/",
+      "position_on_profile": 105,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNNqdDETQTe",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DNNqdDETQTe/",
+      "position_on_profile": 106,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMsMN3-SQVA",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DMsMN3-SQVA/",
+      "position_on_profile": 107,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMo_nwISgCX",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DMo_nwISgCX/",
+      "position_on_profile": 108,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMXZkDbyszV",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DMXZkDbyszV/",
+      "position_on_profile": 109,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DMICCqrS5e0",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DMICCqrS5e0/",
+      "position_on_profile": 110,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DL2QIY2y7dG",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DL2QIY2y7dG/",
+      "position_on_profile": 111,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLsQn9xy84A",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DLsQn9xy84A/",
+      "position_on_profile": 112,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLkBGstSh-M",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DLkBGstSh-M/",
+      "position_on_profile": 113,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLiHg_UyfUa",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DLiHg_UyfUa/",
+      "position_on_profile": 114,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLcm85ZSs7Q",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DLcm85ZSs7Q/",
+      "position_on_profile": 115,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLP-g1IyDXa",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DLP-g1IyDXa/",
+      "position_on_profile": 116,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DK4U7oJSdjS",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DK4U7oJSdjS/",
+      "position_on_profile": 117,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DK1eQuJyzGX",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DK1eQuJyzGX/",
+      "position_on_profile": 118,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKzQzvcSvFH",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DKzQzvcSvFH/",
+      "position_on_profile": 119,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DKwkM5VSkYn",
+      "reel_url": "https://www.instagram.com/Sanskritisingh08/reel/DKwkM5VSkYn/",
+      "position_on_profile": 120,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    }
+  ],
+  "summary": {
+    "total_posts_found": 359,
+    "posts_indexed": 120
+  }
+}

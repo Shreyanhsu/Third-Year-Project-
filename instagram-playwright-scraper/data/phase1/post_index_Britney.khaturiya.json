@@ -1,0 +1,864 @@
+{
+  "schema_version": "1.0",
+  "scrape_phase": "post_index",
+  "creator": {
+    "creator_username": "Britney.khaturiya",
+    "profile_url": "https://www.instagram.com/Britney.khaturiya/",
+    "niche": "Beauty",
+    "followers_count_visible": "97.4K",
+    "verified": false
+  },
+  "scrape_metadata": {
+    "scraped_at": "2026-02-04T14:02:34.770Z",
+    "scraper_type": "playwright_ui_controlled",
+    "post_selection_strategy": "balanced_with_reel_fallback",
+    "max_posts_collected": 120,
+    "scroll_behavior": "manual_like_slow_scroll"
+  },
+  "posts_index": [
+    {
+      "post_id": "DFZ1_HVJd0p",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DFZ1_HVJd0p/",
+      "position_on_profile": 1,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUVa9GmDAds",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DUVa9GmDAds/",
+      "position_on_profile": 2,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUSw46okusE",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DUSw46okusE/",
+      "position_on_profile": 3,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUNlh-HEie_",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DUNlh-HEie_/",
+      "position_on_profile": 4,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUJImXjD5q2",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DUJImXjD5q2/",
+      "position_on_profile": 5,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUGcMtzDOmh",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DUGcMtzDOmh/",
+      "position_on_profile": 6,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUBF1GDEo97",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DUBF1GDEo97/",
+      "position_on_profile": 7,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT-oVzNDIc0",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DT-oVzNDIc0/",
+      "position_on_profile": 8,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT8ctIUEtdm",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DT8ctIUEtdm/",
+      "position_on_profile": 9,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT67139CGiL",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DT67139CGiL/",
+      "position_on_profile": 10,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT5OgqLjEMa",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DT5OgqLjEMa/",
+      "position_on_profile": 11,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DT28xMljJcc",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DT28xMljJcc/",
+      "position_on_profile": 12,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTx6DxXjH6x",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DTx6DxXjH6x/",
+      "position_on_profile": 13,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTxuKaHjG0N",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DTxuKaHjG0N/",
+      "position_on_profile": 14,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTu4J6UDMrD",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DTu4J6UDMrD/",
+      "position_on_profile": 15,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTsOMA9DLMA",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DTsOMA9DLMA/",
+      "position_on_profile": 16,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTk28hSCKXZ",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DTk28hSCKXZ/",
+      "position_on_profile": 17,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTkc44tjNbY",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DTkc44tjNbY/",
+      "position_on_profile": 18,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTiKTJYjBdz",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DTiKTJYjBdz/",
+      "position_on_profile": 19,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTf81MADInz",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DTf81MADInz/",
+      "position_on_profile": 20,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTc7Ip1DGPf",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DTc7Ip1DGPf/",
+      "position_on_profile": 21,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTWGblBjGT7",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DTWGblBjGT7/",
+      "position_on_profile": 22,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTU9-PsDLCu",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DTU9-PsDLCu/",
+      "position_on_profile": 23,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTSqdKBjDRo",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DTSqdKBjDRo/",
+      "position_on_profile": 24,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTQDodhDKVT",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DTQDodhDKVT/",
+      "position_on_profile": 25,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTNmXC-jHv0",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DTNmXC-jHv0/",
+      "position_on_profile": 26,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSm-9kxkn3V",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DSm-9kxkn3V/",
+      "position_on_profile": 27,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSkNxWbDO72",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DSkNxWbDO72/",
+      "position_on_profile": 28,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DShkUEhkvEw",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DShkUEhkvEw/",
+      "position_on_profile": 29,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSc8pA_DGBj",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DSc8pA_DGBj/",
+      "position_on_profile": 30,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSZ4qIWjM3G",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DSZ4qIWjM3G/",
+      "position_on_profile": 31,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSXshqiDJzq",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DSXshqiDJzq/",
+      "position_on_profile": 32,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSUuWotDGSe",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DSUuWotDGSe/",
+      "position_on_profile": 33,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSPOz7mjLTz",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DSPOz7mjLTz/",
+      "position_on_profile": 34,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSNFaiSjK-G",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DSNFaiSjK-G/",
+      "position_on_profile": 35,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSKXRu1DG7G",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DSKXRu1DG7G/",
+      "position_on_profile": 36,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSH2yZijDAC",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DSH2yZijDAC/",
+      "position_on_profile": 37,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSFa-L6jNC1",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DSFa-L6jNC1/",
+      "position_on_profile": 38,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSCsSf6DC9P",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DSCsSf6DC9P/",
+      "position_on_profile": 39,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRog3CRDEXC",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DRog3CRDEXC/",
+      "position_on_profile": 40,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUQmAgCkngO",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DUQmAgCkngO/",
+      "position_on_profile": 41,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DUIuTHpjCrd",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DUIuTHpjCrd/",
+      "position_on_profile": 42,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DTX0YiCjMmG",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DTX0YiCjMmG/",
+      "position_on_profile": 43,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DS-H6z1DNtL",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DS-H6z1DNtL/",
+      "position_on_profile": 44,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSsK5kckuS6",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DSsK5kckuS6/",
+      "position_on_profile": 45,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSSOxpCjNv0",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DSSOxpCjNv0/",
+      "position_on_profile": 46,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSIJC1ljNCT",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DSIJC1ljNCT/",
+      "position_on_profile": 47,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DSAPMhrErHm",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DSAPMhrErHm/",
+      "position_on_profile": 48,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRUUG8WDKec",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DRUUG8WDKec/",
+      "position_on_profile": 49,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRMwDWhjOfH",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DRMwDWhjOfH/",
+      "position_on_profile": 50,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ4j9ApDK41",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DQ4j9ApDK41/",
+      "position_on_profile": 51,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQwrXkZjERy",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DQwrXkZjERy/",
+      "position_on_profile": 52,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQo10YaDDk4",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DQo10YaDDk4/",
+      "position_on_profile": 53,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQEJhaxEhU-",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DQEJhaxEhU-/",
+      "position_on_profile": 54,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQCs7iZkmQQ",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DQCs7iZkmQQ/",
+      "position_on_profile": 55,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPghdfCEiTe",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DPghdfCEiTe/",
+      "position_on_profile": 56,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPROQZLjA9D",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DPROQZLjA9D/",
+      "position_on_profile": 57,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO_VFt0kg4F",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DO_VFt0kg4F/",
+      "position_on_profile": 58,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO8cHPHjEbl",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DO8cHPHjEbl/",
+      "position_on_profile": 59,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOs_inkkqMu",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DOs_inkkqMu/",
+      "position_on_profile": 60,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOnymFbjLkr",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DOnymFbjLkr/",
+      "position_on_profile": 61,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOeO5ETktyW",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DOeO5ETktyW/",
+      "position_on_profile": 62,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOYc3xgkoi2",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DOYc3xgkoi2/",
+      "position_on_profile": 63,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNpxycKS4D5",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DNpxycKS4D5/",
+      "position_on_profile": 64,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNYapmSKrhc",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DNYapmSKrhc/",
+      "position_on_profile": 65,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DM-Dg_4qfy0",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DM-Dg_4qfy0/",
+      "position_on_profile": 66,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DL2rhvUJgBm",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DL2rhvUJgBm/",
+      "position_on_profile": 67,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLsjd14z6Cb",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DLsjd14z6Cb/",
+      "position_on_profile": 68,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLfZhonJ64q",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DLfZhonJ64q/",
+      "position_on_profile": 69,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DLSpCEkJM4v",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/DLSpCEkJM4v/",
+      "position_on_profile": 70,
+      "post_type": "carousel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "CaxAshUASgf",
+      "reel_url": "https://www.instagram.com/britney.khaturiya/p/CaxAshUASgf/",
+      "position_on_profile": 71,
+      "post_type": "image",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRXK4cqDHBa",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DRXK4cqDHBa/",
+      "position_on_profile": 72,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRRuE1AElYY",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DRRuE1AElYY/",
+      "position_on_profile": 73,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRPL-H6DNPB",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DRPL-H6DNPB/",
+      "position_on_profile": 74,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRKIVGfDLO3",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DRKIVGfDLO3/",
+      "position_on_profile": 75,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRHbyNFjANS",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DRHbyNFjANS/",
+      "position_on_profile": 76,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRE7FfpDIR9",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DRE7FfpDIR9/",
+      "position_on_profile": 77,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DRClMtWDOt9",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DRClMtWDOt9/",
+      "position_on_profile": 78,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ_6VCejGqX",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DQ_6VCejGqX/",
+      "position_on_profile": 79,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ9EzuEjONo",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DQ9EzuEjONo/",
+      "position_on_profile": 80,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ6tVyFDPYH",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DQ6tVyFDPYH/",
+      "position_on_profile": 81,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQ157VbDL1C",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DQ157VbDL1C/",
+      "position_on_profile": 82,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQy3cMbDCLe",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DQy3cMbDCLe/",
+      "position_on_profile": 83,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQt53FejBI_",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DQt53FejBI_/",
+      "position_on_profile": 84,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQrO-tBjIrk",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DQrO-tBjIrk/",
+      "position_on_profile": 85,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQHyAtCjCIM",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DQHyAtCjCIM/",
+      "position_on_profile": 86,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DQALX5wkp62",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DQALX5wkp62/",
+      "position_on_profile": 87,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP9FokRkiZm",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DP9FokRkiZm/",
+      "position_on_profile": 88,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP6dmUVEqz-",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DP6dmUVEqz-/",
+      "position_on_profile": 89,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP3xTBmkrb3",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DP3xTBmkrb3/",
+      "position_on_profile": 90,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DP1G9yaktFA",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DP1G9yaktFA/",
+      "position_on_profile": 91,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPyhPfpkrOC",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DPyhPfpkrOC/",
+      "position_on_profile": 92,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPvyWSKEirq",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DPvyWSKEirq/",
+      "position_on_profile": 93,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPtsiwokpKw",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DPtsiwokpKw/",
+      "position_on_profile": 94,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPquMvuEnNl",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DPquMvuEnNl/",
+      "position_on_profile": 95,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPoOvo3jC7l",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DPoOvo3jC7l/",
+      "position_on_profile": 96,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPl_nSgkiKT",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DPl_nSgkiKT/",
+      "position_on_profile": 97,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPd-YqKDPOT",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DPd-YqKDPOT/",
+      "position_on_profile": 98,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPbuxvbDDm7",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DPbuxvbDDm7/",
+      "position_on_profile": 99,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPTiCMGjsQx",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DPTiCMGjsQx/",
+      "position_on_profile": 100,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPOxsIPklNb",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DPOxsIPklNb/",
+      "position_on_profile": 101,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPMIsyDDFsr",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DPMIsyDDFsr/",
+      "position_on_profile": 102,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DPJ5B_mknqg",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DPJ5B_mknqg/",
+      "position_on_profile": 103,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO51xtvEgZs",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DO51xtvEgZs/",
+      "position_on_profile": 104,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DO0iBeSDDJb",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DO0iBeSDDJb/",
+      "position_on_profile": 105,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOyUZn-DHqm",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DOyUZn-DHqm/",
+      "position_on_profile": 106,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOvo68wEjoi",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DOvo68wEjoi/",
+      "position_on_profile": 107,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOqZqGGEjCg",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DOqZqGGEjCg/",
+      "position_on_profile": 108,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOizgDJjEqL",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DOizgDJjEqL/",
+      "position_on_profile": 109,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOgNvTakgqR",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DOgNvTakgqR/",
+      "position_on_profile": 110,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DORHKYtDOqK",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DORHKYtDOqK/",
+      "position_on_profile": 111,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOL1_hijTsb",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DOL1_hijTsb/",
+      "position_on_profile": 112,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOGhsuIjA09",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DOGhsuIjA09/",
+      "position_on_profile": 113,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOENrRxjBkA",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DOENrRxjBkA/",
+      "position_on_profile": 114,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DOBzrOSktQW",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DOBzrOSktQW/",
+      "position_on_profile": 115,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNxsscWZFla",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DNxsscWZFla/",
+      "position_on_profile": 116,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNiWeSIKA8v",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DNiWeSIKA8v/",
+      "position_on_profile": 117,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNfxdGhpyme",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DNfxdGhpyme/",
+      "position_on_profile": 118,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNVuhb0JecX",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DNVuhb0JecX/",
+      "position_on_profile": 119,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    },
+    {
+      "post_id": "DNQUTvrKaee",
+      "reel_url": "https://www.instagram.com/Britney.khaturiya/reel/DNQUTvrKaee/",
+      "position_on_profile": 120,
+      "post_type": "reel",
+      "thumbnail_collected": false
+    }
+  ],
+  "summary": {
+    "total_posts_found": 362,
+    "posts_indexed": 120
+  }
+}
